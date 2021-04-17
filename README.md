@@ -1,6 +1,10 @@
+
 ### Hi there 👋
 
-- 🐦 [![Twitter](https://img.shields.io/twitter/follow/markhazleton?label=Follow%20%40markhazleton&style=social)](https://twitter.com/markhazleton)
+[<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton)
+[<img src="./twitter.svg"  width="25" >](https://twitter.com/markhazleton)
+[<img src="./azuredevops.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD)
+
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&theme=dark" alt="markhazleton" />
