@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🐦 [![Twitter](https://img.shields.io/twitter/follow/markhazleton?label=Follow%20%40markhazleton&style=social)](https://twitter.com/ardalis)
+- 🐦 [![Twitter](https://img.shields.io/twitter/follow/markhazleton?label=Follow%20%40markhazleton&style=social)](https://twitter.com/markhazleton)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&theme=dark" alt="markhazleton" />
