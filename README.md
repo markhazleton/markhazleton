@@ -12,6 +12,8 @@
 
 ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=markhazleton&repo=markhazleton&countColor=%237B1E7A)
 
-<div>
-[GitHub Page](https://markhazleton.github.io)
-</div>
+<br />
+<br />
+<br />
+
+![GitHub Page](https://markhazleton.github.io)
