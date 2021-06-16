@@ -16,4 +16,4 @@
 <br />
 <br />
 
-[GitHub Page](https://markhazleton.github.io/)
+[markhazleton.github.io/](https://markhazleton.github.io/)
