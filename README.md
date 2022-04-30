@@ -14,9 +14,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markhazleton&layout=compact&hide=html&theme=vision-friendly-dark" alt="markhazleton" />
 <div/>
 <br />
-<img src="https://camo.githubusercontent.com/d76b340f186e177c32f946116a750a8a593c118c29aa45241b1bb9bda751b4e9/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6a7573746f766572636c6f636b6c" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=markhazleton" style="max-width: 100%;">
-  
-  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=markhazleton&theme=matrix&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
   
   
   
