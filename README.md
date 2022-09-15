@@ -26,4 +26,4 @@
 <br />
 <br />
 
-[markhazleton.github.io/](https://markhazleton.github.io/)
+[Online Resume](https://markhazleton.controlorigins.com/)
