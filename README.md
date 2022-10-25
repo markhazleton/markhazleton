@@ -1,9 +1,9 @@
 ### Thanks for stopping by.
 
-[<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton){:target="_blank"}
-[<img src="./stackoverflow.svg"  width="25" >](https://stackoverflow.com/users/479571/markhazleton){:target="_blank"}
-[<img src="./azure.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD){:target="_blank"}
-[<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton){:target="_blank"}
+[<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton)
+[<img src="./stackoverflow.svg"  width="25" >](https://stackoverflow.com/users/479571/markhazleton)
+[<img src="./azure.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD)
+[<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&theme=dark" alt="markhazleton" />
