@@ -17,13 +17,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=markhazleton&theme=matrix&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-  
-  
-  
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=markhazleton&repo=markhazleton&countColor=%237B1E7A)
-
 <br />
 <br />
 <br />
 
-[Online Resume](https://markhazleton.controlorigins.com/)
+[Mark Hazleton Profile](https://markhazleton.controlorigins.com/)
