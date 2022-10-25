@@ -1,6 +1,6 @@
 ### Thanks for stopping by.
 
-[<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton)
+[<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton "Mark Hazleton LinkedIn")
 [<img src="./stackoverflow.svg"  width="25" >](https://stackoverflow.com/users/479571/markhazleton)
 [<img src="./azure.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD)
 [<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton)
