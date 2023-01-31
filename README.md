@@ -1,4 +1,3 @@
-### Thanks for stopping by.
 [![Mark Hazleton](/InksLakeSunset.jpg?raw=true)](https://markhazleton.controlorigins.com/)
 
 [<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton "Mark Hazleton LinkedIn")
