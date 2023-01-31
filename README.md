@@ -1,4 +1,4 @@
-[![Mark Hazleton](/InksLakeSunset.jpg?raw=true)](https://markhazleton.controlorigins.com/)
+[<img src="/InksLakeSunset.jpg" width="100%">](https://markhazleton.controlorigins.com/)
 
 [<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton "Mark Hazleton LinkedIn")
 [<img src="./stackoverflow.svg"  width="25" >](https://stackoverflow.com/users/479571/markhazleton "Mark Hazleton Stack Overflow")
