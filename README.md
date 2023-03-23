@@ -6,7 +6,12 @@
 
 <br />
 
-![MarkHazleton's GitHub stats](https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&theme=dark)
+<div>
+</div>
+<img src="https://streak-stats.demolab.com?user=markhazleton&theme=tokyonight&border_radius=10&mode=weekly" />
+<img src="https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&theme=dark" />
+
+   
 
 <br />
 
