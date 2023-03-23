@@ -4,6 +4,7 @@
 [<img src="./azure.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD "Mark Hazleton Azure DevOps")
 [<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton "Mark Hazleton Postman")
 
+<br />
 
 ![MarkHazleton's GitHub stats](https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&theme=dark)
 
@@ -13,5 +14,6 @@
 
 <br />
 <br />
-<br />
+
+![Profile views](https://gpvc.arturio.dev/markhazleton)
 
