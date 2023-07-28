@@ -5,20 +5,13 @@
 [<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton "Mark Hazleton Postman")
 
 <br />
-
 <div>
+
+
 </div>
 <img src="https://streak-stats.demolab.com?user=markhazleton&theme=tokyonight&border_radius=10&mode=weekly" />
 <img src="https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&theme=dark" />
-
-   
-
 <br />
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=markhazleton&theme=matrix&no-bg=true&no-frame=true)
-
 <br />
 <br />
-
-![Profile views](https://gpvc.arturio.dev/markhazleton)
-
