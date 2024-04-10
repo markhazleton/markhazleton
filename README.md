@@ -4,4 +4,10 @@
 [<img src="./azure.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD "Mark Hazleton Azure DevOps")
 [<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton "Mark Hazleton Postman")
 
-<https://markhazleton.com>
+
+## <a href='https://markhazleton.com/lifelong-learning.html'>Lifelong Learning</a>
+
+> My repositories serve as a dynamic archive of my learning journey, each one a milestone in my continuous pursuit of knowledge and mastery in technology. From structured explorations in new (to me) technologies to experimental projects that push the boundaries of my understanding, these collections reflect my commitment to lifelong learning and the diverse paths I've taken to grow both personally and professionally.
+
+
+
