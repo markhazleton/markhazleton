@@ -1,0 +1,44 @@
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    # Runs at 12:00 AM UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Fetch Latest Blog Posts
+      id: fetch_blog_posts
+      run: |
+        # Fetch the latest blog posts from the RSS feed
+        curl -s https://markhazleton.com/rss.xml | xmlstarlet sel -t -m '//item' \
+        -v 'concat("- [", title, "](", link, ")")' -n | head -5 > latest-posts.md
+
+    - name: Update README.md
+      run: |
+        # Read the current README.md file into a variable
+        readme=$(cat README.md)
+
+        # Read the fetched blog posts into a variable
+        latest_posts=$(cat latest-posts.md)
+
+        # Replace the placeholder text between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags with the latest blog posts
+        updated_readme=$(echo "$readme" | sed -z "s|<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->|<!-- BLOG-POST-LIST:START -->\n$latest_posts\n<!-- BLOG-POST-LIST:END -->|")
+
+        # Write the updated README back to the file
+        echo "$updated_readme" > README.md
+
+    - name: Commit Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Updated README with latest blog posts"
+        git push
