@@ -26,17 +26,19 @@ jobs:
 
     - name: Update README.md
       run: |
-        # Read the current README.md file into a variable
-        readme=$(<README.md)
-
-        # Read the fetched blog posts into a variable
+        # Read the latest posts into a variable
         latest_posts=$(<latest-posts.md)
 
-        # Replace the placeholder text between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags with the latest blog posts
-        updated_readme=$(echo "$readme" | sed -z "s|<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->|<!-- BLOG-POST-LIST:START -->\n$latest_posts\n<!-- BLOG-POST-LIST:END -->|s")
+        # Replace the placeholder text between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags
+        awk -v latest_posts="$latest_posts" '
+        BEGIN {print_part=1}
+        /<!-- BLOG-POST-LIST:START -->/ {print_part=1; print; print latest_posts; next}
+        /<!-- BLOG-POST-LIST:END -->/ {print_part=0}
+        print_part {print}
+        ' README.md > updated_readme.md
 
-        # Write the updated README back to the file
-        echo "$updated_readme" > README.md
+        # Replace the old README.md with the updated one
+        mv updated_readme.md README.md
 
     - name: Commit Changes
       run: |
