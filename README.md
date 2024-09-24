@@ -10,10 +10,10 @@
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 🚀 What I'm Working On
-- 🌐 [WebSpark](https://github.com/markhazleton/WebSpark): A comprehensive toolkit for optimizing LLM usage in Azure DevOps.
+- 🌐 [WebSpark](https://webspark.markhazleton.com): A comprehensive web application for hosting my demo applications. 
 
 
-## ✍️ Latest Blog Posts
+## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Migrating SampleMvcCRUD Application from .NET 8 to .NET 9](https://markhazleton.com/articles/migrating-samplemvccrud-application-from-net-8-to-net-9.html)
 - [Moving to MarkHazleton.com](https://markhazleton.com/articles/moving-to-markhazletoncom.html)
