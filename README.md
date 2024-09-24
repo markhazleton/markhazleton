@@ -15,8 +15,7 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Async Patterns in .NET 8](https://yourblog.com/async-patterns-in-dotnet-8)
-- [Managing Configurations in Azure](https://yourblog.com/managing-configurations-azure)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
