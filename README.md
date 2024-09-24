@@ -15,13 +15,9 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating SampleMvcCRUD Application from .NET 8 to .NET 9](https://markhazleton.com/articles/migrating-samplemvccrud-application-from-net-8-to-net-9.html)
+- [Moving to MarkHazleton.com](https://markhazleton.com/articles/moving-to-markhazletoncom.html)
+- [The Singleton Advantage: Managing Configurations in .NET](https://markhazleton.com/articles/the-singleton-advantage-managing-configurations-in-net.html)
+- [Building Resilient .NET Applications with Polly](https://markhazleton.com/articles/building-resilient-net-applications-with-polly.html)
+- [Accelerate Azure DevOps Wiki Writing with Azure Wiki Expert GPT](https://markhazleton.com/articles/azure-wiki-expert-gpt-a-game-changer-for-azure-devops-documentation.html)
 
-<!-- BLOG-POST-LIST:END -->
-
-## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/markhazleton)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://markhazleton.com)
-[<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton "Mark Hazleton LinkedIn")
-[<img src="./stackoverflow.svg"  width="25" >](https://stackoverflow.com/users/479571/markhazleton "Mark Hazleton Stack Overflow")
-[<img src="./azure.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD "Mark Hazleton Azure DevOps")
-[<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton "Mark Hazleton Postman")
