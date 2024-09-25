@@ -30,17 +30,26 @@ jobs:
         latest_posts=$(<latest-posts.md)
 
         # Replace the placeholder text between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags
+        # Ensure only one set of latest posts is present
         awk -v latest_posts="$latest_posts" '
         BEGIN {print_part=1}
         /<!-- BLOG-POST-LIST:START -->/ {print_part=1; print; print latest_posts; next}
-        /<!-- BLOG-POST-LIST:END -->/ {print_part=0}
+        /<!-- BLOG-POST-LIST:END -->/ {print_part=0; print; next}
         print_part {print}
         ' README.md > updated_readme.md
 
-        # Replace the old README.md with the updated one
-        mv updated_readme.md README.md
+    - name: Check if README.md was updated
+      run: |
+        # Compare updated README.md with the current one
+        if ! diff updated_readme.md README.md > /dev/null; then
+          mv updated_readme.md README.md
+        else
+          echo "README.md is up to date. No changes needed."
+          exit 0
+        fi
 
     - name: Commit Changes
+      if: success() && steps.update-readme.outputs.changed == 'true'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
