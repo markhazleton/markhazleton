@@ -29,13 +29,12 @@ jobs:
         # Read the latest posts into a variable
         latest_posts=$(<latest-posts.md)
 
-        # Replace the placeholder text between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags
-        # Ensure only one set of latest posts is present
+        # Replace the content between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags
         awk -v latest_posts="$latest_posts" '
-        BEGIN {print_part=1}
-        /<!-- BLOG-POST-LIST:START -->/ {print_part=1; print; print latest_posts; next}
-        /<!-- BLOG-POST-LIST:END -->/ {print_part=0; print; next}
-        print_part {print}
+        BEGIN {in_blog_list=0}
+        /<!-- BLOG-POST-LIST:START -->/ {print; print latest_posts; in_blog_list=1; next}
+        /<!-- BLOG-POST-LIST:END -->/ {print; in_blog_list=0; next}
+        !in_blog_list {print}
         ' README.md > updated_readme.md
 
     - name: Check if README.md was updated
@@ -49,7 +48,7 @@ jobs:
         fi
 
     - name: Commit Changes
-      if: success() && steps.update-readme.outputs.changed == 'true'
+      if: success()
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
