@@ -17,4 +17,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+## 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/markhazleton)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://markhazleton.com)
+[<img src="./linkedin.svg"  width="25" >](https://linkedin.com/in/markhazleton "Mark Hazleton LinkedIn")
+[<img src="./stackoverflow.svg"  width="25" >](https://stackoverflow.com/users/479571/markhazleton "Mark Hazleton Stack Overflow")
+[<img src="./azure.svg"  width="25" >](https://dev.azure.com/markhazleton/SampleMvcCRUD "Mark Hazleton Azure DevOps")
+[<img src="./postman.svg"  width="25" >](https://www.postman.com/markhazleton "Mark Hazleton Postman")
