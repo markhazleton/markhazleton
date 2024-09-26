@@ -15,11 +15,11 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Automating My GitHub Profile with the Latest Blog Posts Using GitHub Actions](https://markhazleton.com/articles/automating-my-github-profile-with-the-latest-blog-posts-using-github-actions.html)
+- [The Brain Behind the JShow Trivia Demo on WebSpark J-Show Builder GPT](https://markhazleton.com/articles/the-brain-behind-the-jshow-trivia-demo-on-webspark-j-show-builder-gpt.html)
 - [Migrating SampleMvcCRUD Application from .NET 8 to .NET 9](https://markhazleton.com/articles/migrating-samplemvccrud-application-from-net-8-to-net-9.html)
 - [Moving to MarkHazleton.com](https://markhazleton.com/articles/moving-to-markhazletoncom.html)
 - [The Singleton Advantage: Managing Configurations in .NET](https://markhazleton.com/articles/the-singleton-advantage-managing-configurations-in-net.html)
-- [Building Resilient .NET Applications with Polly](https://markhazleton.com/articles/building-resilient-net-applications-with-polly.html)
-- [Accelerate Azure DevOps Wiki Writing with Azure Wiki Expert GPT](https://markhazleton.com/articles/azure-wiki-expert-gpt-a-game-changer-for-azure-devops-documentation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
