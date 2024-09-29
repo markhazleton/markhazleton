@@ -15,11 +15,11 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Syntax Highlighting Using Prism.js for XML, PUG, YAML, and C#](https://markhazleton.com/articles/syntax-highlighting-using-prismjs-for-xml-pug-yaml-and-charp.html)
 - [Automating My GitHub Profile with the Latest Blog Posts Using GitHub Actions](https://markhazleton.com/articles/automating-my-github-profile-with-the-latest-blog-posts-using-github-actions.html)
 - [The Brain Behind the JShow Trivia Demo on WebSpark J-Show Builder GPT](https://markhazleton.com/articles/the-brain-behind-the-jshow-trivia-demo-on-webspark-j-show-builder-gpt.html)
 - [Migrating SampleMvcCRUD Application from .NET 8 to .NET 9](https://markhazleton.com/articles/migrating-samplemvccrud-application-from-net-8-to-net-9.html)
 - [Moving to MarkHazleton.com](https://markhazleton.com/articles/moving-to-markhazletoncom.html)
-- [The Singleton Advantage: Managing Configurations in .NET](https://markhazleton.com/articles/the-singleton-advantage-managing-configurations-in-net.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
