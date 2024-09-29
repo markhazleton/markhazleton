@@ -38,17 +38,19 @@ jobs:
         ' README.md > updated_readme.md
 
     - name: Check if README.md was updated
+      id: check_changes
       run: |
         # Compare updated README.md with the current one
         if ! diff updated_readme.md README.md > /dev/null; then
           mv updated_readme.md README.md
+          echo "README updated"
         else
           echo "README.md is up to date. No changes needed."
           exit 0
         fi
 
     - name: Commit Changes
-      if: success()
+      if: steps.check_changes.outputs.result != 'README.md is up to date. No changes needed.'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
