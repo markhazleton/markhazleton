@@ -43,14 +43,19 @@ jobs:
         # Compare updated README.md with the current one
         if ! diff updated_readme.md README.md > /dev/null; then
           mv updated_readme.md README.md
-          echo "README updated"
+          echo "::set-output name=changes_detected::true"
         else
           echo "README.md is up to date. No changes needed."
+          echo "::set-output name=changes_detected::false"
           exit 0
         fi
 
+    - name: Clean up untracked files
+      run: |
+        rm -f latest-posts.md updated_readme.md
+
     - name: Commit Changes
-      if: steps.check_changes.outputs.result != 'README.md is up to date. No changes needed.'
+      if: steps.check_changes.outputs.changes_detected == 'true'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
