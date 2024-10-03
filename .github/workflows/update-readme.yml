@@ -22,7 +22,7 @@ jobs:
       run: |
         # Fetch the latest blog posts from the RSS feed
         curl -s https://markhazleton.com/rss.xml | xmlstarlet sel -t -m '//item' \
-        -v 'concat("- [", title, "](", link, ")")' -n | head -5 > latest-posts.md
+        -v 'concat("- [", title, "](", link, ")")' -n | head -8 > latest-posts.md
 
     - name: Update README.md
       run: |
