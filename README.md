@@ -15,11 +15,14 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Data Analysis Demonstration](https://markhazleton.com/data-analysis-demonstration.html)
+- [The Brain Behind the JShow Trivia Demo on WebSpark J-Show Builder GPT](https://markhazleton.com/articles/the-brain-behind-the-jshow-trivia-demo-on-webspark-j-show-builder-gpt.html)
+- [Fixing a Runaway Node.js Recursive Folder Issue](https://markhazleton.com/articles/fixing-a-runaway-nodejs-recursive-folder-issue.html)
 - [Troubleshooting and Rebuilding My JS-Dev-Env Project](https://markhazleton.com/articles/troubleshooting-and-rebuilding-my-js-dev-env-project.html)
 - [Data Science for NET Developers](https://markhazleton.com/articles/data-science-for-net-developers.html)
+- [ Python: The Language of Data Science](https://markhazleton.com/articles/python-the-language-of-data-science.html)
 - [Syntax Highlighting Using Prism.js for XML, PUG, YAML, and C#](https://markhazleton.com//articles/syntax-highlighting-using-prismjs-for-xml-pug-yaml-and-csharp.html)
 - [Automating My GitHub Profile with the Latest Blog Posts Using GitHub Actions](https://markhazleton.com/articles/automating-my-github-profile-with-the-latest-blog-posts-using-github-actions.html)
-- [The Brain Behind the JShow Trivia Demo on WebSpark J-Show Builder GPT](https://markhazleton.com/articles/the-brain-behind-the-jshow-trivia-demo-on-webspark-j-show-builder-gpt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
