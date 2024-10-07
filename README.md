@@ -15,14 +15,14 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Nutritional Data Using K-means Clustering](https://markhazleton.com/articles/exploring-nutritional-data-using-pca-and-k-means-clustering.html)
+- [Exploratory Data Analysis (EDA) Using Python](https://markhazleton.com/articles/exploratory-data-analysis-eda-using-python.html)
 - [Data Science for NET Developers](https://markhazleton.com/articles/data-science-for-net-developers.html)
-- [Exploring Nutritional Data Using PCA and K-means Clustering](https://markhazleton.com/articles/exploring-nutritional-data-using-pca-and-k-means-clustering.html)
 - [Data Analysis Demonstration](https://markhazleton.com/data-analysis-demonstration.html)
 - [The Brain Behind the JShow Trivia Demo on WebSpark J-Show Builder GPT](https://markhazleton.com/articles/the-brain-behind-the-jshow-trivia-demo-on-webspark-j-show-builder-gpt.html)
 - [Fixing a Runaway Node.js Recursive Folder Issue](https://markhazleton.com/articles/fixing-a-runaway-nodejs-recursive-folder-issue.html)
 - [Troubleshooting and Rebuilding My JS-Dev-Env Project](https://markhazleton.com/articles/troubleshooting-and-rebuilding-my-js-dev-env-project.html)
 - [ Python: The Language of Data Science](https://markhazleton.com/articles/python-the-language-of-data-science.html)
-- [Syntax Highlighting Using Prism.js for XML, PUG, YAML, and C#](https://markhazleton.com//articles/syntax-highlighting-using-prismjs-for-xml-pug-yaml-and-csharp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
