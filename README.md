@@ -15,14 +15,14 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Data Science for NET Developers](https://markhazleton.com/articles/data-science-for-net-developers.html)
+- [ Python: The Language of Data Science](https://markhazleton.com/articles/python-the-language-of-data-science.html)
+- [Exploratory Data Analysis (EDA) Using Python](https://markhazleton.com/articles/exploratory-data-analysis-eda-using-python.html)
+- [Solution Architect Technology Decisions that Impact Business](https://markhazleton.com/projectmechanics/solution-architect-technology-decisions-that-impact-business.html)
 - [Evolution Over Revolution](https://markhazleton.com/projectmechanics/leadership/evolution-over-revolution.html)
 - [From Features to Outcomes](https://markhazleton.com/projectmechanics/leadership/from-features-to-outcomes.html)
 - [Leadership](https://markhazleton.com/projectmechanics/leadership/)
 - [Accountability and Authority](https://markhazleton.com/projectmechanics/leadership/accountability-and-authority.html)
-- [Project Mechanics](https://markhazleton.com/projectmechanics/)
-- [Tools to Manage My Blog](https://markhazleton.com/articles/building-a-web-application-to-manage-your-blog-articles.html)
-- [Conflict Management for Project Managers](https://markhazleton.com/projectmechanics/conflict-management/)
-- [Change Management](https://markhazleton.com/projectmechanics/change-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
