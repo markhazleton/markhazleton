@@ -15,6 +15,7 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [ Building My First React Site Using Vite](https://markhazleton.com/articles/building-my-first-react-site-using-vite.html)
 - [Data Science for NET Developers](https://markhazleton.com/articles/data-science-for-net-developers.html)
 - [ Python: The Language of Data Science](https://markhazleton.com/articles/python-the-language-of-data-science.html)
 - [Exploratory Data Analysis (EDA) Using Python](https://markhazleton.com/articles/exploratory-data-analysis-eda-using-python.html)
@@ -22,7 +23,6 @@
 - [Evolution Over Revolution](https://markhazleton.com/projectmechanics/leadership/evolution-over-revolution.html)
 - [From Features to Outcomes](https://markhazleton.com/projectmechanics/leadership/from-features-to-outcomes.html)
 - [Leadership](https://markhazleton.com/projectmechanics/leadership/)
-- [Accountability and Authority](https://markhazleton.com/projectmechanics/leadership/accountability-and-authority.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
