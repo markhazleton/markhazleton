@@ -16,13 +16,13 @@
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [ Building My First React Site Using Vite](https://markhazleton.com/articles/building-my-first-react-site-using-vite.html)
+- [Adding Weather Component: A TypeScript Learning Journey](https://markhazleton.com/articles/adding-weather-component-a-typescript-learning-journey.html)
 - [Data Science for NET Developers](https://markhazleton.com/articles/data-science-for-net-developers.html)
 - [ Python: The Language of Data Science](https://markhazleton.com/articles/python-the-language-of-data-science.html)
 - [Exploratory Data Analysis (EDA) Using Python](https://markhazleton.com/articles/exploratory-data-analysis-eda-using-python.html)
 - [Solution Architect Technology Decisions that Impact Business](https://markhazleton.com/projectmechanics/solution-architect-technology-decisions-that-impact-business.html)
 - [Evolution Over Revolution](https://markhazleton.com/projectmechanics/leadership/evolution-over-revolution.html)
 - [From Features to Outcomes](https://markhazleton.com/projectmechanics/leadership/from-features-to-outcomes.html)
-- [Leadership](https://markhazleton.com/projectmechanics/leadership/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
