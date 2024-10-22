@@ -11,7 +11,7 @@
 
 ## 🚀 What I'm Working On
 - 🌐 [WebSpark](https://webspark.markhazleton.com): A comprehensive web application for hosting my demo applications. 
-- 🌐 [https://markhazleton.github.io/ReactSparkPortfolio/](https://markhazleton.github.io/ReactSparkPortfolio/): First React Vite Site on Github Pages
+- 🌐 [ReactSparkPortfolio](https://markhazleton.github.io/ReactSparkPortfolio/): First React Vite Site on Github Pages
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
