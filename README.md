@@ -15,14 +15,14 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Interactive Chat in PromptSpark With SignalR and Semantic Kernel Chat Completions](https://markhazleton.com/articles/interactive-chat-in-promptspark-with-signalr-and-semantic-kernel-chat-completions.html)
+- [Building Real-Time Chat with React, SignalR, and Markdown Streaming](https://markhazleton.com/articles/building-real-time-chat-with-react-signalr-and-markdown-streaming.html)
 - [Windows to Mac: Broadening My Horizons](https://markhazleton.com/articles/windows-to-mac-broadening-my-horizons.html)
 - [ Building My First React Site Using Vite](https://markhazleton.com/articles/building-my-first-react-site-using-vite.html)
 - [Adding Weather Component: A TypeScript Learning Journey](https://markhazleton.com/articles/adding-weather-component-a-typescript-learning-journey.html)
 - [Data Science for NET Developers](https://markhazleton.com/articles/data-science-for-net-developers.html)
 - [ Python: The Language of Data Science](https://markhazleton.com/articles/python-the-language-of-data-science.html)
 - [Exploratory Data Analysis (EDA) Using Python](https://markhazleton.com/articles/exploratory-data-analysis-eda-using-python.html)
-- [Solution Architect Technology Decisions that Impact Business](https://markhazleton.com/projectmechanics/solution-architect-technology-decisions-that-impact-business.html)
-- [Evolution Over Revolution](https://markhazleton.com/projectmechanics/leadership/evolution-over-revolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
