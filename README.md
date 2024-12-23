@@ -15,14 +15,14 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Open AI Sora First Imressions](https://markhazleton.com/articles/open-ai-sora-first-imressions.html)
+- [Automating My GitHub Profile with the Latest Blog Posts Using GitHub Actions](https://markhazleton.com/articles/automating-my-github-profile-with-the-latest-blog-posts-using-github-actions.html)
 - [EDS Super Bowl Commercials](https://markhazleton.com/articles/eds-super-bowl-commercials.html)
 - [Using NotebookLM, Clipchamp, and ChatGPT for Podcasts](https://markhazleton.com/articles/using-notebooklm-clipchamp-and-chatgpt-for-podcasts.html)
 - [Workflow-Driven Chat Applications Powered by Adaptive Cards](https://markhazleton.com/articles/workflow-driven-chat-applications-powered-by-adaptive-cards.html)
 - [Interactive Chat in PromptSpark With SignalR and Semantic Kernel Chat Completions](https://markhazleton.com/articles/interactive-chat-in-promptspark-with-signalr-and-semantic-kernel-chat-completions.html)
 - [Building Real-Time Chat with React, SignalR, and Markdown Streaming](https://markhazleton.com/articles/building-real-time-chat-with-react-signalr-and-markdown-streaming.html)
 - [Windows to Mac: Broadening My Horizons](https://markhazleton.com/articles/windows-to-mac-broadening-my-horizons.html)
-- [ Building My First React Site Using Vite](https://markhazleton.com/articles/building-my-first-react-site-using-vite.html)
-- [Adding Weather Component: A TypeScript Learning Journey](https://markhazleton.com/articles/adding-weather-component-a-typescript-learning-journey.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
