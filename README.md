@@ -15,6 +15,7 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with PUG - History, Background, and Future](https://markhazleton.com/articles/getting-started-with-pug-history-background-and-future.html)
 - [Adapting with Purpose: Lifelong Learning in the AI Age](https://markhazleton.com/articles/adapting-with-purpose-lifelong-learning-in-the-ai-age.html)
 - [Creating Law and Order Episode Generator](https://markhazleton.com/articles/creating-law-and-order-episode-generator.html)
 - [I Know AP: The Transformative Power of MCP](https://markhazleton.com/articles/i-know-ap-the-transformative-power-of-mcp.html)
@@ -22,7 +23,6 @@
 - [An Introduction to Neural Networks](https://markhazleton.com/articles/an-introduction-to-neural-networks.html)
 - [Automating My GitHub Profile with the Latest Blog Posts Using GitHub Actions](https://markhazleton.com/articles/automating-my-github-profile-with-the-latest-blog-posts-using-github-actions.html)
 - [EDS Super Bowl Commercials](https://markhazleton.com/articles/eds-super-bowl-commercials.html)
-- [Using NotebookLM, Clipchamp, and ChatGPT for Podcasts](https://markhazleton.com/articles/using-notebooklm-clipchamp-and-chatgpt-for-podcasts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
