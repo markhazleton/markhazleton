@@ -15,6 +15,7 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Computer Vision in Machine Learning](https://markhazleton.com/articles/computer-vision-in-machine-learning.html)
 - [Generate Wiki Documentation from Your Code Repository](https://markhazleton.com/articles/generate-wiki-documentation-from-your-code-repository.html)
 - [Getting Started with PUG - History, Background, and Future](https://markhazleton.com/articles/getting-started-with-pug-history-background-and-future.html)
 - [Adapting with Purpose: Lifelong Learning in the AI Age](https://markhazleton.com/articles/adapting-with-purpose-lifelong-learning-in-the-ai-age.html)
@@ -22,7 +23,6 @@
 - [I Know AP: The Transformative Power of MCP](https://markhazleton.com/articles/i-know-ap-the-transformative-power-of-mcp.html)
 - [Open AI Sora First Impressions](https://markhazleton.com/articles/open-ai-sora-first-impressions.html)
 - [An Introduction to Neural Networks](https://markhazleton.com/articles/an-introduction-to-neural-networks.html)
-- [Automating My GitHub Profile with the Latest Blog Posts Using GitHub Actions](https://markhazleton.com/articles/automating-my-github-profile-with-the-latest-blog-posts-using-github-actions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
