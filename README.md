@@ -15,6 +15,7 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing NLP: Concepts and Real-World Impact](https://markhazleton.com/articles/harnessing-nlp-concepts-and-real-world-impact.html)
 - [Computer Vision in Machine Learning](https://markhazleton.com/articles/computer-vision-in-machine-learning.html)
 - [Generate Wiki Documentation from Your Code Repository](https://markhazleton.com/articles/generate-wiki-documentation-from-your-code-repository.html)
 - [Getting Started with PUG - History, Background, and Future](https://markhazleton.com/articles/getting-started-with-pug-history-background-and-future.html)
@@ -22,7 +23,6 @@
 - [Creating Law and Order Episode Generator](https://markhazleton.com/articles/creating-law-and-order-episode-generator.html)
 - [I Know AP: The Transformative Power of MCP](https://markhazleton.com/articles/i-know-ap-the-transformative-power-of-mcp.html)
 - [Open AI Sora First Impressions](https://markhazleton.com/articles/open-ai-sora-first-impressions.html)
-- [An Introduction to Neural Networks](https://markhazleton.com/articles/an-introduction-to-neural-networks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
