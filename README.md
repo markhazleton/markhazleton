@@ -15,14 +15,14 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Kendrick Lamar's Super Bowl LIX Halftime Show: A Masterpiece of Metaphors](https://markhazleton.com/articles/kendrick-lamars-super-bowl-lix-halftime-show-a-masterpiece-of-metaphors.html)
+- [The Creation of ShareSmallBiz.com: A Platform for Small Business Success](https://markhazleton.com/articles/the-creation-of-sharesmallbizcom-a-platform-for-small-business-success.html)
 - [Riffusion AI: Revolutionizing Music Creation](https://markhazleton.com/articles/riffusion-ai-revolutionizing-music-creation.html)
 - [Harnessing NLP: Concepts and Real-World Impact](https://markhazleton.com/articles/harnessing-nlp-concepts-and-real-world-impact.html)
 - [Computer Vision in Machine Learning](https://markhazleton.com/articles/computer-vision-in-machine-learning.html)
 - [Generate Wiki Documentation from Your Code Repository](https://markhazleton.com/articles/generate-wiki-documentation-from-your-code-repository.html)
 - [Getting Started with PUG - History, Background, and Future](https://markhazleton.com/articles/getting-started-with-pug-history-background-and-future.html)
 - [Adapting with Purpose: Lifelong Learning in the AI Age](https://markhazleton.com/articles/adapting-with-purpose-lifelong-learning-in-the-ai-age.html)
-- [Creating Law and Order Episode Generator](https://markhazleton.com/articles/creating-law-and-order-episode-generator.html)
-- [I Know AP: The Transformative Power of MCP](https://markhazleton.com/articles/i-know-ap-the-transformative-power-of-mcp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
