@@ -15,6 +15,7 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [AI and Critical Thinking in Software Development](https://markhazleton.com/articles/ai-and-critical-thinking-in-software-development.html)
 - [Kendrick Lamar's Super Bowl LIX Halftime Show: A Masterpiece of Metaphors](https://markhazleton.com/articles/kendrick-lamars-super-bowl-lix-halftime-show-a-masterpiece-of-metaphors.html)
 - [The Creation of ShareSmallBiz.com: A Platform for Small Business Success](https://markhazleton.com/articles/the-creation-of-sharesmallbizcom-a-platform-for-small-business-success.html)
 - [Riffusion AI: Revolutionizing Music Creation](https://markhazleton.com/articles/riffusion-ai-revolutionizing-music-creation.html)
@@ -22,7 +23,6 @@
 - [Computer Vision in Machine Learning](https://markhazleton.com/articles/computer-vision-in-machine-learning.html)
 - [Generate Wiki Documentation from Your Code Repository](https://markhazleton.com/articles/generate-wiki-documentation-from-your-code-repository.html)
 - [Getting Started with PUG - History, Background, and Future](https://markhazleton.com/articles/getting-started-with-pug-history-background-and-future.html)
-- [Adapting with Purpose: Lifelong Learning in the AI Age](https://markhazleton.com/articles/adapting-with-purpose-lifelong-learning-in-the-ai-age.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
