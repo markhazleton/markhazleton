@@ -15,14 +15,14 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Project Mechanics](https://markhazleton.com/projectmechanics/)
-- [Tools to Manage My Blog](https://markhazleton.com/articles/building-a-web-application-to-manage-your-blog-articles.html)
-- [Accelerate Azure DevOps Wiki Writing with Azure Wiki Expert GPT](https://markhazleton.com/articles/azure-wiki-expert-gpt-a-game-changer-for-azure-devops-documentation.html)
-- [Moving to MarkHazleton.com](https://markhazleton.com/articles/moving-to-markhazletoncom.html)
-- [Fixing a Runaway Node.js Recursive Folder Issue](https://markhazleton.com/articles/fixing-a-runaway-nodejs-recursive-folder-issue.html)
-- [Canonical URL Troubleshooting for Static Web Apps](https://markhazleton.com/articles/canonical-url-troubleshooting-for-static-web-apps.html)
 - [AI-Assisted Development: Claude and GitHub Copilot](https://markhazleton.com/articles/ai-assisted-development-claude-and-github-copilot.html)
 - [AI and Critical Thinking in Software Development](https://markhazleton.com/articles/ai-and-critical-thinking-in-software-development.html)
+- [Kendrick Lamar's Super Bowl LIX Halftime Show: A Masterpiece of Metaphors](https://markhazleton.com/articles/kendrick-lamars-super-bowl-lix-halftime-show-a-masterpiece-of-metaphors.html)
+- [The Creation of ShareSmallBiz.com: A Platform for Small Business Success](https://markhazleton.com/articles/the-creation-of-sharesmallbizcom-a-platform-for-small-business-success.html)
+- [Riffusion AI: Revolutionizing Music Creation](https://markhazleton.com/articles/riffusion-ai-revolutionizing-music-creation.html)
+- [Harnessing NLP: Concepts and Real-World Impact](https://markhazleton.com/articles/harnessing-nlp-concepts-and-real-world-impact.html)
+- [Computer Vision in Machine Learning](https://markhazleton.com/articles/computer-vision-in-machine-learning.html)
+- [Generate Wiki Documentation from Your Code Repository](https://markhazleton.com/articles/generate-wiki-documentation-from-your-code-repository.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
