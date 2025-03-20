@@ -15,6 +15,7 @@
 
 ## ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [The Impact of Input Case on LLM Categorization](https://markhazleton.com/articles/the-impact-of-input-case-on-llm-categorization.html)
 - [AI-Assisted Development: Claude and GitHub Copilot](https://markhazleton.com/articles/ai-assisted-development-claude-and-github-copilot.html)
 - [AI and Critical Thinking in Software Development](https://markhazleton.com/articles/ai-and-critical-thinking-in-software-development.html)
 - [Kendrick Lamar's Super Bowl LIX Halftime Show: A Masterpiece of Metaphors](https://markhazleton.com/articles/kendrick-lamars-super-bowl-lix-halftime-show-a-masterpiece-of-metaphors.html)
@@ -22,7 +23,6 @@
 - [Riffusion AI: Revolutionizing Music Creation](https://markhazleton.com/articles/riffusion-ai-revolutionizing-music-creation.html)
 - [Harnessing NLP: Concepts and Real-World Impact](https://markhazleton.com/articles/harnessing-nlp-concepts-and-real-world-impact.html)
 - [Computer Vision in Machine Learning](https://markhazleton.com/articles/computer-vision-in-machine-learning.html)
-- [Generate Wiki Documentation from Your Code Repository](https://markhazleton.com/articles/generate-wiki-documentation-from-your-code-repository.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
