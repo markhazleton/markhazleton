@@ -3,7 +3,7 @@ name: Update README with Latest Blog Posts
 on:
   schedule:
     # Runs at 12:00 AM UTC every day
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual trigger of the workflow
 
 jobs:
@@ -11,54 +11,68 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
-    - name: Install xmlstarlet
-      run: sudo apt-get install -y xmlstarlet
+      - name: Install xmlstarlet
+        run: sudo apt-get install -y xmlstarlet
 
-    - name: Fetch Latest Blog Posts
-      id: fetch_blog_posts
-      run: |
-        # Fetch the latest blog posts from the RSS feed
-        curl -s https://markhazleton.com/rss.xml | xmlstarlet sel -t -m '//item' \
-        -v 'concat("- [", title, "](", link, ")")' -n | head -8 > latest-posts.md
+      - name: Fetch Latest Blog Posts
+        id: fetch_blog_posts
+        run: |
+          # Fetch the latest blog posts from the RSS feed
+          if ! curl -s --fail https://markhazleton.com/rss.xml -o rss.xml; then
+            echo "Failed to download RSS feed"
+            exit 1
+          fi
 
-    - name: Update README.md
-      run: |
-        # Read the latest posts into a variable
-        latest_posts=$(<latest-posts.md)
+          if ! xmlstarlet sel -t -m '//item' -v 'concat("- [", title, "](", link, ")")' -n rss.xml | head -8 > latest-posts.md; then
+            echo "Failed to parse RSS feed"
+            exit 1
+          fi
 
-        # Replace the content between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags
-        awk -v latest_posts="$latest_posts" '
-        BEGIN {in_blog_list=0}
-        /<!-- BLOG-POST-LIST:START -->/ {print; print latest_posts; in_blog_list=1; next}
-        /<!-- BLOG-POST-LIST:END -->/ {print; in_blog_list=0; next}
-        !in_blog_list {print}
-        ' README.md > updated_readme.md
+          if [ ! -s latest-posts.md ]; then
+            echo "No blog posts found or RSS feed is empty"
+            exit 1
+          fi
 
-    - name: Check if README.md was updated
-      id: check_changes
-      run: |
-        # Compare updated README.md with the current one
-        if ! diff updated_readme.md README.md > /dev/null; then
-          mv updated_readme.md README.md
-          echo "changes_detected=true" >> $GITHUB_ENV
-        else
-          echo "README.md is up to date. No changes needed."
-          echo "changes_detected=false" >> $GITHUB_ENV
-          exit 0
-        fi
+      - name: Update README.md
+        run: |
+          # Read the latest posts into a variable
+          latest_posts=$(<latest-posts.md)
 
-    - name: Clean up untracked files
-      run: |
-        rm -f latest-posts.md updated_readme.md
+          # Replace the content between the <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> tags
+          awk -v latest_posts="$latest_posts" '
+          BEGIN {in_blog_list=0}
+          /<!-- BLOG-POST-LIST:START -->/ {print; print latest_posts; in_blog_list=1; next}
+          /<!-- BLOG-POST-LIST:END -->/ {print; in_blog_list=0; next}
+          !in_blog_list {print}
+          ' README.md > updated_readme.md
 
-    - name: Commit Changes
-      if: env.changes_detected == 'true'
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "Updated README with latest blog posts"
-        git push
+      - name: Check if README.md was updated
+        id: check_changes
+        run: |
+          # Compare updated README.md with the current one
+          if ! diff updated_readme.md README.md > /dev/null; then
+            mv updated_readme.md README.md
+            echo "changes_detected=true" >> $GITHUB_ENV
+          else
+            echo "README.md is up to date. No changes needed."
+            echo "changes_detected=false" >> $GITHUB_ENV
+            exit 0
+          fi
+
+      - name: Clean up untracked files
+        run: |
+          rm -f latest-posts.md updated_readme.md rss.xml
+
+      - name: Commit Changes
+        if: env.changes_detected == 'true'
+        run: |
+          git config --global user.name "GitHub README Updater"
+          git config --global user.email "noreply@markhazleton.com"
+          git add README.md
+          git commit -m "Updated README with latest blog posts from markhazleton.com"
+          git push
