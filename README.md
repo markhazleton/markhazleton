@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The New Era of Individual Agency: How AI Tools Are Empowering the Self-Starter](https://markhazleton.com/articles/the-new-era-of-individual-agency-how-ai-tools-are-empowering-the-self-starter.html)
 - [ReactSpark A Comprehensive Portfolio Showcase](https://markhazleton.com/articles/reactspark-a-comprehensive-portfolio-showcase.html)
 - [Pedernales Cellars Winery in Texas Hill Country](https://markhazleton.com/articles/pedernales-cellars-winery-in-texas-hill-country.html)
 - [The Impact of Input Case on LLM Categorization](https://markhazleton.com/articles/the-impact-of-input-case-on-llm-categorization.html)
@@ -32,7 +33,6 @@
 - [AI and Critical Thinking in Software Development](https://markhazleton.com/articles/ai-and-critical-thinking-in-software-development.html)
 - [Kendrick Lamar's Super Bowl LIX Halftime Show: A Masterpiece of Metaphors](https://markhazleton.com/articles/kendrick-lamars-super-bowl-lix-halftime-show-a-masterpiece-of-metaphors.html)
 - [The Creation of ShareSmallBiz.com: A Platform for Small Business Success](https://markhazleton.com/articles/the-creation-of-sharesmallbizcom-a-platform-for-small-business-success.html)
-- [Riffusion AI: Revolutionizing Music Creation](https://markhazleton.com/articles/riffusion-ai-revolutionizing-music-creation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
