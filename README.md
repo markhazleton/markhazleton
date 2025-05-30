@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey as a NuGet Gallery Developer and Educator](https://markhazleton.com/articles/nuget-gallery-developer-and-educator.html)
 - [From README to Reality: Teaching an Agent to Bootstrap a UI Theme](https://markhazleton.com/articles/from-readme-to-reality-teaching-an-agent-to-bootstrap-a-ui-theme.html)
 - [The New Era of Individual Agency: How AI Tools Are Empowering the Self-Starter](https://markhazleton.com/articles/the-new-era-of-individual-agency-how-ai-tools-are-empowering-the-self-starter.html)
 - [ReactSpark A Comprehensive Portfolio Showcase](https://markhazleton.com/articles/reactspark-a-comprehensive-portfolio-showcase.html)
@@ -32,7 +33,6 @@
 - [The Impact of Input Case on LLM Categorization](https://markhazleton.com/articles/the-impact-of-input-case-on-llm-categorization.html)
 - [AI-Assisted Development: Claude and GitHub Copilot](https://markhazleton.com/articles/ai-assisted-development-claude-and-github-copilot.html)
 - [AI and Critical Thinking in Software Development](https://markhazleton.com/articles/ai-and-critical-thinking-in-software-development.html)
-- [Kendrick Lamar's Super Bowl LIX Halftime Show: A Masterpiece of Metaphors](https://markhazleton.com/articles/kendrick-lamars-super-bowl-lix-halftime-show-a-masterpiece-of-metaphors.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
