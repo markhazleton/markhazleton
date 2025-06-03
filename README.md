@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building ArtSpark: Where AI Meets Art History](https://markhazleton.com/articles/building-artspark-where-ai-meets-art-history.html)
 - [My Journey as a NuGet Gallery Developer and Educator](https://markhazleton.com/articles/nuget-gallery-developer-and-educator.html)
 - [From README to Reality: Teaching an Agent to Bootstrap a UI Theme](https://markhazleton.com/articles/from-readme-to-reality-teaching-an-agent-to-bootstrap-a-ui-theme.html)
 - [The New Era of Individual Agency: How AI Tools Are Empowering the Self-Starter](https://markhazleton.com/articles/the-new-era-of-individual-agency-how-ai-tools-are-empowering-the-self-starter.html)
@@ -32,7 +33,6 @@
 - [Pedernales Cellars Winery in Texas Hill Country](https://markhazleton.com/articles/pedernales-cellars-winery-in-texas-hill-country.html)
 - [The Impact of Input Case on LLM Categorization](https://markhazleton.com/articles/the-impact-of-input-case-on-llm-categorization.html)
 - [AI-Assisted Development: Claude and GitHub Copilot](https://markhazleton.com/articles/ai-assisted-development-claude-and-github-copilot.html)
-- [AI and Critical Thinking in Software Development](https://markhazleton.com/articles/ai-and-critical-thinking-in-software-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
