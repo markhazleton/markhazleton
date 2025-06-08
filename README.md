@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [NuGet Package Pros and Cons](https://markhazleton.com/articles/nuget-packages-pros-cons.html)
 - [Building ArtSpark: Where AI Meets Art History](https://markhazleton.com/articles/building-artspark-where-ai-meets-art-history.html)
 - [My Journey as a NuGet Gallery Developer and Educator](https://markhazleton.com/articles/nuget-gallery-developer-and-educator.html)
 - [From README to Reality: Teaching an Agent to Bootstrap a UI Theme](https://markhazleton.com/articles/from-readme-to-reality-teaching-an-agent-to-bootstrap-a-ui-theme.html)
@@ -32,7 +33,6 @@
 - [ReactSpark A Comprehensive Portfolio Showcase](https://markhazleton.com/articles/reactspark-a-comprehensive-portfolio-showcase.html)
 - [Pedernales Cellars Winery in Texas Hill Country](https://markhazleton.com/articles/pedernales-cellars-winery-in-texas-hill-country.html)
 - [The Impact of Input Case on LLM Categorization](https://markhazleton.com/articles/the-impact-of-input-case-on-llm-categorization.html)
-- [AI-Assisted Development: Claude and GitHub Copilot](https://markhazleton.com/articles/ai-assisted-development-claude-and-github-copilot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
