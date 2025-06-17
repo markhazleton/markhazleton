@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Observability Is No Joke](https://markhazleton.com/articles/ai-observability-is-no-joke.html)
 - [Architecting Agentic Services in .NET 9: Semantic Kernel | Enterprise AI Architecture](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
 - [Building ArtSpark: Where AI Meets Art History](https://markhazleton.com/articles/building-artspark-where-ai-meets-art-history.html)
 - [My Journey as a NuGet Gallery Developer and Educator](https://markhazleton.com/articles/nuget-gallery-developer-and-educator.html)
@@ -32,7 +33,6 @@
 - [The New Era of Individual Agency: How AI Tools Are Empowering the Self-Starter](https://markhazleton.com/articles/the-new-era-of-individual-agency-how-ai-tools-are-empowering-the-self-starter.html)
 - [ReactSpark A Comprehensive Portfolio Showcase](https://markhazleton.com/articles/reactspark-a-comprehensive-portfolio-showcase.html)
 - [Pedernales Cellars Winery in Texas Hill Country](https://markhazleton.com/articles/pedernales-cellars-winery-in-texas-hill-country.html)
-- [The Impact of Input Case on LLM Categorization](https://markhazleton.com/articles/the-impact-of-input-case-on-llm-categorization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
