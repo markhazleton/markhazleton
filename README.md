@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building TeachSpark: AI-Powered Educational Technology for Teachers ](https://markhazleton.com/articles/building-teachspark-ai-powered-educational-technology-for-teachers.html)
 - [AI Observability Is No Joke](https://markhazleton.com/articles/ai-observability-is-no-joke.html)
 - [Architecting Agentic Services in .NET 9: Semantic Kernel | Enterprise AI Architecture](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
 - [Building ArtSpark: Where AI Meets Art History](https://markhazleton.com/articles/building-artspark-where-ai-meets-art-history.html)
@@ -32,7 +33,6 @@
 - [From README to Reality: Teaching an Agent to Bootstrap a UI Theme](https://markhazleton.com/articles/from-readme-to-reality-teaching-an-agent-to-bootstrap-a-ui-theme.html)
 - [The New Era of Individual Agency: How AI Tools Are Empowering the Self-Starter](https://markhazleton.com/articles/the-new-era-of-individual-agency-how-ai-tools-are-empowering-the-self-starter.html)
 - [ReactSpark A Comprehensive Portfolio Showcase](https://markhazleton.com/articles/reactspark-a-comprehensive-portfolio-showcase.html)
-- [Pedernales Cellars Winery in Texas Hill Country](https://markhazleton.com/articles/pedernales-cellars-winery-in-texas-hill-country.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
