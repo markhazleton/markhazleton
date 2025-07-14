@@ -22,21 +22,49 @@ jobs:
       - name: Fetch Latest Blog Posts
         id: fetch_blog_posts
         run: |
-          # Fetch the latest blog posts from the RSS feed
-          if ! curl -s --fail https://markhazleton.com/rss.xml -o rss.xml; then
-            echo "Failed to download RSS feed"
+          # Fetch the latest blog posts from the RSS feed with retry logic
+          echo "Attempting to download RSS feed..."
+          
+          # Try up to 3 times with delays
+          for i in {1..3}; do
+            if curl -s --fail --connect-timeout 10 --max-time 30 https://markhazleton.com/rss.xml -o rss.xml; then
+              echo "Successfully downloaded RSS feed on attempt $i"
+              break
+            else
+              echo "Attempt $i failed, retrying in 5 seconds..."
+              if [ $i -lt 3 ]; then
+                sleep 5
+              else
+                echo "All attempts failed to download RSS feed"
+                exit 1
+              fi
+            fi
+          done
+          
+          # Verify the file was downloaded and has content
+          if [ ! -s rss.xml ]; then
+            echo "RSS file is empty or doesn't exist"
             exit 1
           fi
-
+          
+          # Show first few lines for debugging
+          echo "RSS file preview:"
+          head -10 rss.xml
+          
+          # Parse the RSS feed
           if ! xmlstarlet sel -t -m '//item' -v 'concat("- [", title, "](", link, ")")' -n rss.xml | head -8 > latest-posts.md; then
             echo "Failed to parse RSS feed"
             exit 1
           fi
-
+          
+          # Verify parsing worked
           if [ ! -s latest-posts.md ]; then
             echo "No blog posts found or RSS feed is empty"
             exit 1
           fi
+          
+          echo "Successfully parsed RSS feed:"
+          cat latest-posts.md
 
       - name: Update README.md
         run: |
