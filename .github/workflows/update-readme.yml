@@ -25,97 +25,49 @@ jobs:
       - name: Install xmlstarlet
         run: sudo apt-get install -y xmlstarlet
 
-      - name: Debug Network and Fetch Latest Blog Posts
+      - name: Fetch Latest Blog Posts
         id: fetch_blog_posts
         run: |
-          echo "=== DEBUGGING NETWORK CONNECTIVITY ==="
+          echo "Fetching RSS feed with bot-friendly approach..."
           
-          # Check basic connectivity
-          echo "Checking DNS resolution..."
-          nslookup markhazleton.com || echo "DNS lookup failed"
+          # Try multiple approaches to bypass Cloudflare bot protection
+          success=false
           
-          echo "Checking basic connectivity..."
-          ping -c 3 markhazleton.com || echo "Ping failed"
-          
-          echo "Checking HTTPS connectivity..."
-          curl -I --connect-timeout 10 --max-time 30 https://markhazleton.com/ || echo "HTTPS connection failed"
-          
-          echo "=== ATTEMPTING RSS DOWNLOAD WITH DETAILED OUTPUT ==="
-          
-          # Try with verbose output first to see what's happening
-          echo "Attempt with verbose output:"
-          curl -v --connect-timeout 10 --max-time 30 https://markhazleton.com/rss.xml -o rss.xml 2>&1 || echo "Verbose curl failed"
-          
-          # Check if file was created and show its content/size
-          if [ -f rss.xml ]; then
-            echo "RSS file was created, size: $(wc -c < rss.xml) bytes"
-            if [ -s rss.xml ]; then
-              echo "RSS file has content, first 10 lines:"
-              head -10 rss.xml
-            else
-              echo "RSS file is empty"
+          # Method 1: Real browser User-Agent with proper headers
+          echo "Trying with real browser headers..."
+          if curl -s --fail --connect-timeout 15 --max-time 45 \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" \
+            -H "Accept: application/rss+xml, application/xml, text/xml" \
+            -H "Accept-Language: en-US,en;q=0.9" \
+            -H "Accept-Encoding: gzip, deflate, br" \
+            -H "DNT: 1" \
+            -H "Connection: keep-alive" \
+            -H "Upgrade-Insecure-Requests: 1" \
+            https://markhazleton.com/rss.xml -o rss.xml; then
+            if grep -q "<rss\|<feed" rss.xml 2>/dev/null; then
+              echo "✓ Successfully downloaded RSS with browser headers"
+              success=true
             fi
-          else
-            echo "RSS file was not created"
           fi
           
-          # Try alternative approaches
-          echo "=== TRYING ALTERNATIVE APPROACHES ==="
-          
-          # Try with different user agent
-          echo "Trying with User-Agent header..."
-          curl -s --fail --connect-timeout 10 --max-time 30 \
-            -H "User-Agent: Mozilla/5.0 (compatible; GitHub-Action-RSS-Reader/1.0)" \
-            https://markhazleton.com/rss.xml -o rss_alt1.xml || echo "User-Agent approach failed"
-          
-          # Try with wget
-          echo "Trying with wget..."
-          wget --timeout=30 --tries=1 --user-agent="GitHub-Action-RSS-Reader/1.0" \
-            -q -O rss_alt2.xml https://markhazleton.com/rss.xml || echo "wget failed"
-          
-          # Check which files were created
-          echo "=== FILE CHECK ==="
-          ls -la *.xml 2>/dev/null || echo "No XML files found"
-          
-          # Use the best available file
-          rss_file=""
-          if [ -s rss.xml ]; then
-            rss_file="rss.xml"
-            echo "Using original rss.xml"
-          elif [ -s rss_alt1.xml ]; then
-            rss_file="rss_alt1.xml"
-            echo "Using rss_alt1.xml (User-Agent version)"
-          elif [ -s rss_alt2.xml ]; then
-            rss_file="rss_alt2.xml"
-            echo "Using rss_alt2.xml (wget version)"
-          else
-            echo "No valid RSS file could be downloaded"
-            exit 1
+          # Method 2: Try with delay and different user agent
+          if [ "$success" = false ]; then
+            echo "Trying with delay and RSS reader user agent..."
+            sleep 3
+            if curl -s --fail --connect-timeout 15 --max-time 45 \
+              -H "User-Agent: FeedBurner/1.0 (http://www.FeedBurner.com)" \
+              -H "Accept: application/rss+xml, application/xml, text/xml" \
+              https://markhazleton.com/rss.xml -o rss_alt1.xml; then
+              if grep -q "<rss\|<feed" rss_alt1.xml 2>/dev/null; then
+                mv rss_alt1.xml rss.xml
+                echo "✓ Successfully downloaded RSS with FeedBurner user agent"
+                success=true
+              fi
+            fi
           fi
           
-          echo "=== PARSING RSS FEED ==="
-          echo "Using file: $rss_file"
-          
-          # Show file preview
-          echo "RSS file preview:"
-          head -20 "$rss_file"
-          
-          # Parse the RSS feed
-          if ! xmlstarlet sel -t -m '//item' -v 'concat("- [", title, "](", link, ")")' -n "$rss_file" | head -8 > latest-posts.md; then
-            echo "Failed to parse RSS feed"
-            echo "Trying to validate XML structure..."
-            xmlstarlet val "$rss_file" || echo "XML validation failed"
-            exit 1
-          fi
-          
-          # Verify parsing worked
-          if [ ! -s latest-posts.md ]; then
-            echo "No blog posts found or RSS feed is empty"
-            exit 1
-          fi
-          
-          echo "Successfully parsed RSS feed:"
-          cat latest-posts.md
+          # Method 3: Try wget with real browser agent
+          if [ "$success" = false 
 
       - name: Update README.md
         run: |
