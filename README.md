@@ -25,7 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Confidence Trap](https://markhazleton.com/articles/the-ai-confidence-trap.html)
+- [Mountains of Misunderstanding](https://markhazleton.com/articles/the-ai-confidence-trap.html)
 - [Building TeachSpark: AI-Powered Educational Technology for Teachers](https://markhazleton.com/articles/building-teachspark-ai-powered-educational-technology-for-teachers.html)
 - [AI Observability: Understanding Its Importance](https://markhazleton.com/articles/ai-observability-is-no-joke.html)
 - [Architecting Agentic Services in .NET 9: Semantic Kernel](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
