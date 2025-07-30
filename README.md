@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Hotfix Prioritization Matrix &amp; Decision Framework](https://markhazleton.com/articles/hotfix-prioritization-matrix-decision-framework.html)
 - [The Building of React-native-web-start](https://markhazleton.com/articles/the-building-of-react-native-web-start.html)
 - [Mountains of Misunderstanding](https://markhazleton.com/articles/the-ai-confidence-trap.html)
 - [Building TeachSpark: AI-Powered Educational Technology for Teachers](https://markhazleton.com/articles/building-teachspark-ai-powered-educational-technology-for-teachers.html)
@@ -32,7 +33,6 @@
 - [Architecting Agentic Services in .NET 9: Semantic Kernel](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
 - [Building ArtSpark: Where AI Meets Art History](https://markhazleton.com/articles/building-artspark-where-ai-meets-art-history.html)
 - [My Journey as a NuGet Gallery Developer and Educator](https://markhazleton.com/articles/nuget-gallery-developer-and-educator.html)
-- [From README to Reality: Teaching an Agent to Bootstrap a UI Theme](https://markhazleton.com/articles/from-readme-to-reality-teaching-an-agent-to-bootstrap-a-ui-theme.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
