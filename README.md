@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolving PHP Development](https://markhazleton.com/articles/evolving-php-development.html)
 - [TailwindSpark: Ignite Your Web Development](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html)
 - [Hotfix Prioritization Matrix &amp; Decision Framework](https://markhazleton.com/articles/hotfix-prioritization-matrix-decision-framework.html)
 - [The Building of React-native-web-start](https://markhazleton.com/articles/the-building-of-react-native-web-start.html)
@@ -32,7 +33,6 @@
 - [Building TeachSpark: AI-Powered Educational Technology for Teachers](https://markhazleton.com/articles/building-teachspark-ai-powered-educational-technology-for-teachers.html)
 - [AI Observability: Understanding Its Importance](https://markhazleton.com/articles/ai-observability-is-no-joke.html)
 - [Architecting Agentic Services in .NET 9: Semantic Kernel](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
-- [Building ArtSpark: Where AI Meets Art History](https://markhazleton.com/articles/building-artspark-where-ai-meets-art-history.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Let's Connect
