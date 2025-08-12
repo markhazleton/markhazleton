@@ -23,7 +23,7 @@ jobs:
         run: |
           if [ -f InksLakeSunset.jpg ]; then
             # Resize to a reasonable max width to keep file small (adjust as needed)
-            magick InksLakeSunset.jpg -resize 1600x -strip InksLakeSunset.resized.jpg
+            convert InksLakeSunset.jpg -resize 1600x -strip InksLakeSunset.resized.jpg
             cwebp -q 80 InksLakeSunset.resized.jpg -o InksLakeSunset.webp
             mv InksLakeSunset.resized.jpg InksLakeSunset.jpg
           fi
@@ -31,7 +31,7 @@ jobs:
       - name: Compress JPG (strip metadata and set quality)
         run: |
           if [ -f InksLakeSunset.jpg ]; then
-            magick InksLakeSunset.jpg -strip -interlace Plane -sampling-factor 4:2:0 -quality 80 InksLakeSunset.jpg
+            convert InksLakeSunset.jpg -strip -interlace Plane -sampling-factor 4:2:0 -quality 80 InksLakeSunset.jpg
           fi
 
       - name: Commit changes
