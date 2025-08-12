@@ -3,8 +3,8 @@ name: Optimize hero image
 on:
   push:
     paths:
-      - 'InksLakeSunset.jpg'
-      - '.github/workflows/optimize-hero-image.yml'
+      - "InksLakeSunset.jpg"
+      - ".github/workflows/optimize-hero-image.yml"
   workflow_dispatch: {}
 
 jobs:
@@ -22,16 +22,16 @@ jobs:
       - name: Convert JPG to WebP
         run: |
           if [ -f InksLakeSunset.jpg ]; then
-            cwebp -q 80 InksLakeSunset.jpg -o InksLakeSunset.webp
+            # Resize to a reasonable max width to keep file small (adjust as needed)
+            magick InksLakeSunset.jpg -resize 1600x -strip InksLakeSunset.resized.jpg
+            cwebp -q 80 InksLakeSunset.resized.jpg -o InksLakeSunset.webp
+            mv InksLakeSunset.resized.jpg InksLakeSunset.jpg
           fi
 
       - name: Compress JPG (strip metadata and set quality)
         run: |
           if [ -f InksLakeSunset.jpg ]; then
-            # Create a temp copy to avoid in-place unexpected behavior
-            cp InksLakeSunset.jpg InksLakeSunset.tmp.jpg
-            magick InksLakeSunset.tmp.jpg -strip -interlace Plane -sampling-factor 4:2:0 -quality 80 InksLakeSunset.jpg
-            rm -f InksLakeSunset.tmp.jpg
+            magick InksLakeSunset.jpg -strip -interlace Plane -sampling-factor 4:2:0 -quality 80 InksLakeSunset.jpg
           fi
 
       - name: Commit changes
