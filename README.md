@@ -17,22 +17,11 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working On / Featurd Projects
 
 - 🌐 [WebSpark](https://webspark.markhazleton.com): A comprehensive web application for hosting my demo applications.
 - 🌐 [ReactSpark](https://reactspark.markhazleton.com/): React Spark built with Vite Site hosted on Azure Static Web Applications
-
-## ⭐ Featured Projects
-
-- 🌐 [WebSpark](https://webspark.markhazleton.com) — Demo app host on Azure Static Web Apps focused on fast previews and developer experience.
-- ⚡ [ReactSpark](https://reactspark.markhazleton.com) — Vite + React starter deployed to Azure SWA for quick CI/CD and instant HMR.
 - 🎨 [TailwindSpark](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html) — Opinionated UI foundations to ship consistent, clean interfaces quickly.
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&cache_seconds=7200)](https://github.com/markhazleton)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markhazleton&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200)](https://github.com/markhazleton)
 
 ## ✍️ Latest Articles
 
@@ -47,6 +36,32 @@
 - [Architecting Agentic Services in .NET 9: Semantic Kernel](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
 <!-- BLOG-POST-LIST:END -->
 
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&cache_seconds=7200)](https://github.com/markhazleton)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markhazleton&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200)](https://github.com/markhazleton)
+
 ## 🔗 Let's Connect
 
-[Website](https://markhazleton.com) · [LinkedIn](https://linkedin.com/in/markhazleton) · [Stack Overflow](https://stackoverflow.com/users/479571/markhazleton) · [Azure DevOps](https://dev.azure.com/markhazleton/SampleMvcCRUD) · [Postman](https://www.postman.com/markhazleton)
+<!-- markdownlint-disable MD033 -->
+<p>
+	<a href="https://markhazleton.com" title="Website">🌐 Website</a>
+	&nbsp;&nbsp;&nbsp;
+	<a href="https://linkedin.com/in/markhazleton" title="LinkedIn">
+		<img src="linkedin.svg" alt="LinkedIn" width="28" height="28" />
+	</a>
+	&nbsp;&nbsp;&nbsp;
+	<a href="https://stackoverflow.com/users/479571/markhazleton" title="Stack Overflow">
+		<img src="stackoverflow.svg" alt="Stack Overflow" width="28" height="28" />
+	</a>
+	&nbsp;&nbsp;&nbsp;
+	<a href="https://dev.azure.com/markhazleton/SampleMvcCRUD" title="Azure DevOps">
+		<img src="azuredevops.svg" alt="Azure DevOps" width="28" height="28" />
+	</a>
+	&nbsp;&nbsp;&nbsp;
+	<a href="https://www.postman.com/markhazleton" title="Postman">
+		<img src="postman.svg" alt="Postman" width="28" height="28" />
+	</a>
+</p>
+<!-- markdownlint-enable MD033 -->
