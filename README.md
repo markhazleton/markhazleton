@@ -1,6 +1,12 @@
 # Hi, I'm Mark Hazleton 👋
 
-[![Inks Lake Sunset - Texas Hill Country](/InksLakeSunset.jpg)](https://markhazleton.com/ "Mark Hazleton Profile")
+.NET + Azure engineer building modern web apps and developer tooling.
+
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+ <img src="/InksLakeSunset.jpg" alt="Inks Lake Sunset - Texas Hill Country" width="900" />
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ## Lifelong Learning
 
@@ -16,11 +22,17 @@
 - 🌐 [WebSpark](https://webspark.markhazleton.com): A comprehensive web application for hosting my demo applications.
 - 🌐 [ReactSpark](https://reactspark.markhazleton.com/): React Spark built with Vite Site hosted on Azure Static Web Applications
 
+## ⭐ Featured Projects
+
+- 🌐 [WebSpark](https://webspark.markhazleton.com) — Demo app host on Azure Static Web Apps focused on fast previews and developer experience.
+- ⚡ [ReactSpark](https://reactspark.markhazleton.com) — Vite + React starter deployed to Azure SWA for quick CI/CD and instant HMR.
+- 🎨 [TailwindSpark](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html) — Opinionated UI foundations to ship consistent, clean interfaces quickly.
+
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/markhazleton)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&cache_seconds=7200)](https://github.com/markhazleton)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markhazleton&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/markhazleton)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markhazleton&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200)](https://github.com/markhazleton)
 
 ## ✍️ Latest Articles
 
@@ -37,8 +49,4 @@
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/markhazleton "Mark Hazleton LinkedIn")
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://markhazleton.com "Mark Hazleton Website")
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/479571/markhazleton "Mark Hazleton Stack Overflow")
-[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=Azure-DevOps&logoColor=white)](https://dev.azure.com/markhazleton/SampleMvcCRUD "Mark Hazleton Azure DevOps")
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/markhazleton "Mark Hazleton Postman")
+[Website](https://markhazleton.com) · [LinkedIn](https://linkedin.com/in/markhazleton) · [Stack Overflow](https://stackoverflow.com/users/479571/markhazleton) · [Azure DevOps](https://dev.azure.com/markhazleton/SampleMvcCRUD) · [Postman](https://www.postman.com/markhazleton)
