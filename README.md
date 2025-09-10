@@ -24,6 +24,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Modernizing Client Libraries in a .NET 4.8 Framework Application](https://markhazleton.com/articles/modernizing-client-libraries-in-a-net-48-framework-application.html)
 - [Evolving PHP Development](https://markhazleton.com/articles/evolving-php-development.html)
 - [TailwindSpark: Ignite Your Web Development](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html)
 - [Hotfix Prioritization Matrix &amp; Decision Framework](https://markhazleton.com/articles/hotfix-prioritization-matrix-decision-framework.html)
@@ -31,7 +32,6 @@
 - [Mountains of Misunderstanding](https://markhazleton.com/articles/the-ai-confidence-trap.html)
 - [Building TeachSpark: AI-Powered Educational Technology for Teachers](https://markhazleton.com/articles/building-teachspark-ai-powered-educational-technology-for-teachers.html)
 - [AI Observability: Understanding Its Importance](https://markhazleton.com/articles/ai-observability-is-no-joke.html)
-- [Architecting Agentic Services in .NET 9: Semantic Kernel](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
