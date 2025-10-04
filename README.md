@@ -24,6 +24,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Metrics: Git Spark Real Story](https://markhazleton.com/articles/engineering-metrics-git-spark-real-story.html)
 - [Measuring AI's Contribution to Code](https://markhazleton.com/articles/measuring-ais-contribution-to-code.html)
 - [Modernizing Client Libraries in a .NET 4.8 Framework Application](https://markhazleton.com/articles/modernizing-client-libraries-in-a-net-48-framework-application.html)
 - [Evolving PHP Development](https://markhazleton.com/articles/evolving-php-development.html)
@@ -31,7 +32,6 @@
 - [Hotfix Prioritization Matrix &amp; Decision Framework](https://markhazleton.com/articles/hotfix-prioritization-matrix-decision-framework.html)
 - [The Building of React-native-web-start](https://markhazleton.com/articles/the-building-of-react-native-web-start.html)
 - [Mountains of Misunderstanding](https://markhazleton.com/articles/the-ai-confidence-trap.html)
-- [Building TeachSpark: AI-Powered Educational Technology for Teachers](https://markhazleton.com/articles/building-teachspark-ai-powered-educational-technology-for-teachers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
