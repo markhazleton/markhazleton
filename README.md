@@ -24,7 +24,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Metrics: Git Spark Real Story](https://markhazleton.com/articles/engineering-metrics-git-spark-real-story.html)
+- [Building Git Spark: My First npm Package Journey](https://markhazleton.com/articles/engineering-metrics-git-spark-real-story.html)
 - [Measuring AI's Contribution to Code](https://markhazleton.com/articles/measuring-ais-contribution-to-code.html)
 - [Modernizing Client Libraries in a .NET 4.8 Framework Application](https://markhazleton.com/articles/modernizing-client-libraries-in-a-net-48-framework-application.html)
 - [Evolving PHP Development](https://markhazleton.com/articles/evolving-php-development.html)
