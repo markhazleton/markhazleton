@@ -24,6 +24,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Driving GitHub's Spec Kit: From Three-Ring Binders to Living Documentation](https://markhazleton.com/articles/test-driving-githubs-spec-kit.html)
 - [Building a Quick Estimation Template When You Have Almost Nothing to Go On](https://markhazleton.com/articles/building-a-quick-estimation-template.html)
 - [Building Git Spark: My First npm Package Journey](https://markhazleton.com/articles/engineering-metrics-git-spark-real-story.html)
 - [Measuring AI's Contribution to Code](https://markhazleton.com/articles/measuring-ais-contribution-to-code.html)
@@ -31,7 +32,6 @@
 - [Evolving PHP Development](https://markhazleton.com/articles/evolving-php-development.html)
 - [TailwindSpark: Ignite Your Web Development](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html)
 - [Hotfix Prioritization Matrix &amp; Decision Framework](https://markhazleton.com/articles/hotfix-prioritization-matrix-decision-framework.html)
-- [The Building of React-native-web-start](https://markhazleton.com/articles/the-building-of-react-native-web-start.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
