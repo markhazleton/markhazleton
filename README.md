@@ -24,7 +24,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Driving GitHub's Spec Kit: From Three-Ring Binders to Living Documentation](https://markhazleton.com/articles/test-driving-githubs-spec-kit.html)
+- [Test Driving GitHub's Spec Kit: AI-Maintained Documentation That Stays Accurate](https://markhazleton.com/articles/test-driving-githubs-spec-kit.html)
 - [Building a Quick Estimation Template When You Have Almost Nothing to Go On](https://markhazleton.com/articles/building-a-quick-estimation-template.html)
 - [Building Git Spark: My First npm Package Journey](https://markhazleton.com/articles/engineering-metrics-git-spark-real-story.html)
 - [Measuring AI's Contribution to Code](https://markhazleton.com/articles/measuring-ais-contribution-to-code.html)
