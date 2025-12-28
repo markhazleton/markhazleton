@@ -1,25 +1,13 @@
-# Hi, I'm Mark Hazleton 👋
 
-.NET + Azure engineer building modern web apps and developer tooling.
-
-<!-- markdownlint-disable MD033 -->
-<p align="center">
- <picture>
-  <source srcset="InksLakeSunset.webp" type="image/webp" />
-  <img src="InksLakeSunset.jpg" alt="Inks Lake Sunset - Texas Hill Country" width="900" decoding="async" />
- </picture>
-</p>
-<!-- markdownlint-enable MD033 -->
+[![GitHub Stats Overview](https://raw.githubusercontent.com/markhazleton/github-stats-spark/main/output/overview.svg)](https://markhazleton.com)
 
 ## Lifelong Learning
-
 > My repositories serve as a dynamic archive of my learning journey, each one a milestone in my continuous pursuit of knowledge and mastery in technology. From structured explorations in new (to me) technologies to experimental projects that push the boundaries of my understanding, these collections reflect my commitment to lifelong learning and the diverse paths I've taken to grow both personally and professionally.
 
 ## 🚀 What I'm Working On / Featured Projects
 
 - 🌐 [WebSpark](https://webspark.markhazleton.com): A comprehensive web application for hosting my demo applications.
 - 🌐 [ReactSpark](https://reactspark.markhazleton.com/): React Spark built with Vite Site hosted on Azure Static Web Applications
-- 🎨 [TailwindSpark](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html) — Opinionated UI foundations to ship consistent, clean interfaces quickly.
 
 ## ✍️ Latest Articles
 
@@ -35,19 +23,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
+[![GitHub Stats](https://raw.githubusercontent.com/markhazleton/github-stats-spark/main/output/fun.svg)](https://markhazleton.com)
 
-<!-- markdownlint-disable MD033 -->
-<p>
- <a href="https://github.com/markhazleton" aria-label="GitHub profile">
-  <img src="https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub Stats for @markhazleton" loading="lazy" />
- </a>
-</p>
-<p>
- <a href="https://github.com/markhazleton" aria-label="Top languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markhazleton&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" alt="Top languages for @markhazleton" loading="lazy" />
- </a>
-</p>
-<!-- markdownlint-enable MD033 -->
+[![GitHub Stats](https://raw.githubusercontent.com/markhazleton/github-stats-spark/main/output/release.svg)](https://markhazleton.com)
+
+
 
 ## 🔗 Let's Connect
 
