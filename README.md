@@ -12,14 +12,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Driving GitHub's Spec Kit: AI-Maintained Documentation That Stays Accurate](https://markhazleton.com/articles/test-driving-githubs-spec-kit.html)
-- [Building a Quick Estimation Template When You Have Almost Nothing to Go On](https://markhazleton.com/articles/building-a-quick-estimation-template.html)
-- [Building Git Spark: My First npm Package Journey](https://markhazleton.com/articles/engineering-metrics-git-spark-real-story.html)
-- [Measuring AI's Contribution to Code](https://markhazleton.com/articles/measuring-ais-contribution-to-code.html)
-- [Modernizing Client Libraries in a .NET 4.8 Framework Application](https://markhazleton.com/articles/modernizing-client-libraries-in-a-net-48-framework-application.html)
-- [Evolving PHP Development](https://markhazleton.com/articles/evolving-php-development.html)
-- [TailwindSpark: Ignite Your Web Development](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html)
-- [Hotfix Prioritization Matrix &amp; Decision Framework](https://markhazleton.com/articles/hotfix-prioritization-matrix-decision-framework.html)
+- [Why I Forked GitHub Spec Kit](https://markhazleton.com/blog/why-i-forked-github-spec-kit)
+- [Thinking About Stack Overflow Made Me Ponder the Real Lessons of Disruption](https://markhazleton.com/blog/stack-overflow-disruption-lesson)
+- [Extending GitHub Spec Kit for Constitution-Based Pull Request Reviews](https://markhazleton.com/blog/github-spec-kit-constitution-based-pr-reviews)
+- [Safely Launching a New MarkHazleton.com](https://markhazleton.com/blog/safely-launching-new-markhazleton-com)
+- [Building MuseumSpark - Why Context Matters More Than the Latest LLM](https://markhazleton.com/blog/building-museumspark-context-matters-llm)
+- [AI, Confidence, and the Rotary Four-Way Test](https://markhazleton.com/blog/ai-confidence-and-rotary-four-way-test)
+- [Building a Quick Estimation Template When You Have Almost Nothing to Go On](https://markhazleton.com/blog/building-a-quick-estimation-template)
+- [Test Driving GitHub's Spec Kit: Requirements Quality Matters](https://markhazleton.com/blog/test-driving-githubs-spec-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
