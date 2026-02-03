@@ -12,6 +12,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking Spec-Kit Spark to the Next Level](https://markhazleton.com/blog/adaptive-system-lifecycle-development-toolkit)
 - [Why I Forked GitHub Spec Kit](https://markhazleton.com/blog/why-i-forked-github-spec-kit)
 - [Thinking About Stack Overflow Made Me Ponder the Real Lessons of Disruption](https://markhazleton.com/blog/stack-overflow-disruption-lesson)
 - [Extending GitHub Spec Kit for Constitution-Based Pull Request Reviews](https://markhazleton.com/blog/github-spec-kit-constitution-based-pr-reviews)
@@ -19,7 +20,6 @@
 - [Building MuseumSpark - Why Context Matters More Than the Latest LLM](https://markhazleton.com/blog/building-museumspark-context-matters-llm)
 - [AI, Confidence, and the Rotary Four-Way Test](https://markhazleton.com/blog/ai-confidence-and-rotary-four-way-test)
 - [Building a Quick Estimation Template When You Have Almost Nothing to Go On](https://markhazleton.com/blog/building-a-quick-estimation-template)
-- [Test Driving GitHub's Spec Kit: Requirements Quality Matters](https://markhazleton.com/blog/test-driving-githubs-spec-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
