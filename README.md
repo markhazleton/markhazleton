@@ -12,14 +12,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [UISampleSpark: Modern DevOps as a Living Reference](https://markhazleton.com/blog/uisamplespark-modern-operations-and-the-living-reference)
+- [UISampleSpark: Seven UI Paradigms, One Backend](https://markhazleton.com/blog/uisamplespark-the-ui-showcase-seven-paradigms-for-one-backend)
+- [UISampleSpark: Constitution-Driven Development](https://markhazleton.com/blog/transforming-samplemvccrud-with-net-aspire-a-cloud-native-evolution)
+- [UISampleSpark: Seven Years of .NET Modernization](https://markhazleton.com/blog/migrating-samplemvccrud-application-from-net-8-to-net-9)
+- [UISampleSpark: A Developer's Swiss Army Knife](https://markhazleton.com/blog/sample-mvc-crud)
 - [Taking Spec-Kit Spark to the Next Level](https://markhazleton.com/blog/adaptive-system-lifecycle-development-toolkit)
 - [Why I Forked GitHub Spec Kit](https://markhazleton.com/blog/why-i-forked-github-spec-kit)
 - [Thinking About Stack Overflow Made Me Ponder the Real Lessons of Disruption](https://markhazleton.com/blog/stack-overflow-disruption-lesson)
-- [Extending GitHub Spec Kit for Constitution-Based Pull Request Reviews](https://markhazleton.com/blog/github-spec-kit-constitution-based-pr-reviews)
-- [Safely Launching a New MarkHazleton.com](https://markhazleton.com/blog/safely-launching-new-markhazleton-com)
-- [Building MuseumSpark - Why Context Matters More Than the Latest LLM](https://markhazleton.com/blog/building-museumspark-context-matters-llm)
-- [AI, Confidence, and the Rotary Four-Way Test](https://markhazleton.com/blog/ai-confidence-and-rotary-four-way-test)
-- [Building a Quick Estimation Template When You Have Almost Nothing to Go On](https://markhazleton.com/blog/building-a-quick-estimation-template)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
