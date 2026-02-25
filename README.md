@@ -12,6 +12,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Spec Kit Spark: The Evolution of AI-Assisted Software Development](https://markhazleton.com/blog/spec-kit-spark-evolution-ai-development)
 - [Fork Management: Automating Upstream Integration](https://markhazleton.com/blog/automating-fork-sync-upstream-integration)
 - [From Oracle CASE to Spec-Driven AI Development](https://markhazleton.com/blog/from-oracle-case-to-spec-driven-ai-journey)
 - [The Managed Transition Model: Leadership Promotion as Power Exchange](https://markhazleton.com/blog/the-managed-transition-model-leadership-promotion-power-exchange)
@@ -19,7 +20,6 @@
 - [UISampleSpark: Seven UI Paradigms, One Backend](https://markhazleton.com/blog/uisamplespark-the-ui-showcase-seven-paradigms-for-one-backend)
 - [UISampleSpark: Constitution-Driven Development](https://markhazleton.com/blog/transforming-samplemvccrud-with-net-aspire-a-cloud-native-evolution)
 - [UISampleSpark: Seven Years of .NET Modernization](https://markhazleton.com/blog/migrating-samplemvccrud-application-from-net-8-to-net-9)
-- [UISampleSpark: A Developer's Swiss Army Knife](https://markhazleton.com/blog/sample-mvc-crud)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
