@@ -12,6 +12,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [SupportSpark: A Lightweight Support Network Without the Noise](https://markhazleton.com/blog/the-birth-of-supportspark-a-compassionate-tech-journey)
 - [Spec Kit Spark: The Evolution of AI-Assisted Software Development](https://markhazleton.com/blog/spec-kit-spark-evolution-ai-development)
 - [Fork Management: Automating Upstream Integration](https://markhazleton.com/blog/automating-fork-sync-upstream-integration)
 - [From Oracle CASE to Spec-Driven AI Development](https://markhazleton.com/blog/from-oracle-case-to-spec-driven-ai-journey)
@@ -19,7 +20,6 @@
 - [UISampleSpark: Modern DevOps as a Living Reference](https://markhazleton.com/blog/uisamplespark-modern-operations-and-the-living-reference)
 - [UISampleSpark: Seven UI Paradigms, One Backend](https://markhazleton.com/blog/uisamplespark-the-ui-showcase-seven-paradigms-for-one-backend)
 - [UISampleSpark: Constitution-Driven Development](https://markhazleton.com/blog/transforming-samplemvccrud-with-net-aspire-a-cloud-native-evolution)
-- [UISampleSpark: Seven Years of .NET Modernization](https://markhazleton.com/blog/migrating-samplemvccrud-application-from-net-8-to-net-9)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
