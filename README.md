@@ -12,6 +12,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [When the Pressure is On - Late Sprint Hotfix Governance](https://markhazleton.com/blog/when-the-pressure-is-on-late-sprint-hotfix-governance)
 - [SupportSpark: A Lightweight Support Network Without the Noise](https://markhazleton.com/blog/the-birth-of-supportspark-a-compassionate-tech-journey)
 - [Spec Kit Spark: The Evolution of AI-Assisted Software Development](https://markhazleton.com/blog/spec-kit-spark-evolution-ai-development)
 - [Fork Management: Automating Upstream Integration](https://markhazleton.com/blog/automating-fork-sync-upstream-integration)
@@ -19,7 +20,6 @@
 - [The Managed Transition Model: Leadership Promotion as Power Exchange](https://markhazleton.com/blog/the-managed-transition-model-leadership-promotion-power-exchange)
 - [UISampleSpark: Modern DevOps as a Living Reference](https://markhazleton.com/blog/uisamplespark-modern-operations-and-the-living-reference)
 - [UISampleSpark: Seven UI Paradigms, One Backend](https://markhazleton.com/blog/uisamplespark-the-ui-showcase-seven-paradigms-for-one-backend)
-- [UISampleSpark: Constitution-Driven Development](https://markhazleton.com/blog/transforming-samplemvccrud-with-net-aspire-a-cloud-native-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
