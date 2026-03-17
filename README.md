@@ -12,6 +12,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [RESTRunner: Building a DIY API Load Testing Tool](https://markhazleton.com/blog/rest-runner-building-your-own-api-load-tester)
 - [Accountability and Authority: Walking the Tightrope](https://markhazleton.com/blog/accountability-and-authority-walking-the-tightrope)
 - [Evolution over Revolution: A Pragmatic Approach](https://markhazleton.com/blog/evolution-over-revolution-pragmatic-approach-software-development)
 - [From Features to Outcomes: Keeping Your Eye on the Prize](https://markhazleton.com/blog/from-features-to-outcomes-keeping-your-eye-on-the-prize)
@@ -19,7 +20,6 @@
 - [SupportSpark: A Lightweight Support Network Without the Noise](https://markhazleton.com/blog/the-birth-of-supportspark-a-compassionate-tech-journey)
 - [Spec Kit Spark: The Evolution of AI-Assisted Software Development](https://markhazleton.com/blog/spec-kit-spark-evolution-ai-development)
 - [Fork Management: Automating Upstream Integration](https://markhazleton.com/blog/automating-fork-sync-upstream-integration)
-- [From Oracle CASE to Spec-Driven AI Development](https://markhazleton.com/blog/from-oracle-case-to-spec-driven-ai-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
