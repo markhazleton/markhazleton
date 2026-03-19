@@ -6,7 +6,7 @@
 
 ## 🚀 What I'm Working On / Featured Projects
 
-- 🌐 [WebSpark](https://webspark.markhazleton.com): A comprehensive web application for hosting my demo applications.
+- 🌐 [Spec-Kit-Spark]([https://webspark.markhazleton.com](https://github.com/markhazleton/spec-kit)): A fork of GitHub SpecKit focused on brownfiled/ongoing development. 
 - 🌐 [ReactSpark](https://reactspark.markhazleton.com/): React Spark built with Vite Site hosted on Azure Static Web Applications
 
 ## ✍️ Latest Articles
