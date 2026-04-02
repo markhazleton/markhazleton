@@ -1,12 +1,12 @@
 
-[![GitHub Stats Overview](https://raw.githubusercontent.com/markhazleton/github-stats-spark/main/output/overview.svg)](https://markhazleton.com)
+[![GitHub Stats Overview](https://raw.githubusercontent.com/markhazleton/github-stats-spark/refs/heads/main/output/users/markhazleton/overview.svg)](https://markhazleton.com)
 
 ## Lifelong Learning
 > My repositories serve as a dynamic archive of my learning journey, each one a milestone in my continuous pursuit of knowledge and mastery in technology. From structured explorations in new (to me) technologies to experimental projects that push the boundaries of my understanding, these collections reflect my commitment to lifelong learning and the diverse paths I've taken to grow both personally and professionally.
 
 ## 🚀 What I'm Working On / Featured Projects
 
-- 🌐 [Spec-Kit-Spark](https://github.com/markhazleton/spec-kit): A fork of GitHub SpecKit focused on brownfiled/ongoing development. 
+- 🌐 [DevSpark](https://github.com/markhazleton/devspark): A fork of GitHub SpecKit focused on brownfiled/ongoing development. 
 - 🌐 [ReactSpark](https://reactspark.markhazleton.com/): React Spark built with Vite Site hosted on Azure Static Web Applications
 
 ## ✍️ Latest Articles
@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://raw.githubusercontent.com/markhazleton/github-stats-spark/main/output/fun.svg)](https://markhazleton.com)
+[![GitHub Stats](https://raw.githubusercontent.com/markhazleton/github-stats-spark/refs/heads/main/output/users/markhazleton/fun.svg)](https://markhazleton.com)
 
-[![GitHub Stats](https://raw.githubusercontent.com/markhazleton/github-stats-spark/main/output/release.svg)](https://markhazleton.com)
+[![GitHub Stats](https://raw.githubusercontent.com/markhazleton/github-stats-spark/refs/heads/main/output/users/markhazleton/streaks.svg)](https://markhazleton.com)
 
 
 
