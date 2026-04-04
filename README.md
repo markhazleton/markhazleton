@@ -12,10 +12,10 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Spec Kit Spark v1.6: Agent-Agnostic, Multi-User, and Built for Teams](https://markhazleton.com/blog/spec-kit-spark-multi-user-agent-agnostic-teams)
-- [Spec Kit Spark in Practice: A NuGet Package Case Study](https://markhazleton.com/blog/spec-kit-spark-httpclientutility-case-study)
-- [Spec Kit Spark: From Fork to Framework — What the Commits Reveal](https://markhazleton.com/blog/spec-kit-spark-fork-journey-what-got-built)
-- [Spec Kit Spark: Months Later, Lessons Learned](https://markhazleton.com/blog/spec-kit-spark-months-later-lessons-learned)
+- [DevSpark v0.1.0: Agent-Agnostic, Multi-User, and Built for Teams](https://markhazleton.com/blog/devspark-multi-user-agent-agnostic-teams)
+- [DevSpark in Practice: A NuGet Package Case Study](https://markhazleton.com/blog/devspark-httpclientutility-case-study)
+- [DevSpark: From Fork to Framework — What the Commits Reveal](https://markhazleton.com/blog/devspark-fork-journey-what-got-built)
+- [DevSpark: Months Later, Lessons Learned](https://markhazleton.com/blog/devspark-months-later-lessons-learned)
 - [RESTRunner: Building a DIY API Load Testing Tool](https://markhazleton.com/blog/rest-runner-building-your-own-api-load-tester)
 - [Accountability and Authority: Walking the Tightrope](https://markhazleton.com/blog/accountability-and-authority-walking-the-tightrope)
 - [Evolution over Revolution: A Pragmatic Approach](https://markhazleton.com/blog/evolution-over-revolution-pragmatic-approach-software-development)
