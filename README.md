@@ -12,6 +12,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Bring Your Own AI: DevSpark Unlocks Multi-Agent Collaboration](https://markhazleton.com/blog/devspark-bring-your-own-ai)
 - [DevSpark Monorepo Support: Governing Multiple Apps in One Repository](https://markhazleton.com/blog/devspark-monorepo-support)
 - [DevSpark v0.1.0: Agent-Agnostic, Multi-User, and Built for Teams](https://markhazleton.com/blog/devspark-multi-user-agent-agnostic-teams)
 - [DevSpark in Practice: A NuGet Package Case Study](https://markhazleton.com/blog/devspark-httpclientutility-case-study)
@@ -19,7 +20,6 @@
 - [DevSpark: Months Later, Lessons Learned](https://markhazleton.com/blog/devspark-months-later-lessons-learned)
 - [RESTRunner: Building a DIY API Load Testing Tool](https://markhazleton.com/blog/rest-runner-building-your-own-api-load-tester)
 - [Accountability and Authority: Walking the Tightrope](https://markhazleton.com/blog/accountability-and-authority-walking-the-tightrope)
-- [Evolution over Revolution: A Pragmatic Approach](https://markhazleton.com/blog/evolution-over-revolution-pragmatic-approach-software-development)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
