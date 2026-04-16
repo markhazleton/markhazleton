@@ -7,7 +7,7 @@
 ## 🚀 What I'm Working On / Featured Projects
 
 - 🌐 [DevSpark](https://github.com/markhazleton/devspark): A fork of GitHub SpecKit focused on brownfiled/ongoing development. 
-- 🌐 [ReactSpark](https://reactspark.markhazleton.com/): React Spark built with Vite Site hosted on Azure Static Web Applications
+- 🌐 [BootstrapSpark](https://bootstrapspark.markhazleton.com/): Bootstrap Spark built with Vite Site hosted on Azure Static Web Applications showcase for Bootstrap
 
 ## ✍️ Latest Articles
 
