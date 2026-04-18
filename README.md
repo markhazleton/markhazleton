@@ -12,14 +12,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dave's Top Ten: Git Stats You Should Never Track](https://markhazleton.com/blog/engineering-metrics-top-ten-worst-git-stats)
+- [Dogfooding DevSpark: Building the Plane While Flying It](https://markhazleton.com/blog/dogfooding-devspark)
 - [Bring Your Own AI: DevSpark Unlocks Multi-Agent Collaboration](https://markhazleton.com/blog/devspark-bring-your-own-ai)
 - [DevSpark Monorepo Support: Governing Multiple Apps in One Repository](https://markhazleton.com/blog/devspark-monorepo-support)
 - [DevSpark v0.1.0: Agent-Agnostic, Multi-User, and Built for Teams](https://markhazleton.com/blog/devspark-multi-user-agent-agnostic-teams)
 - [DevSpark in Practice: A NuGet Package Case Study](https://markhazleton.com/blog/devspark-httpclientutility-case-study)
 - [DevSpark: From Fork to Framework — What the Commits Reveal](https://markhazleton.com/blog/devspark-fork-journey-what-got-built)
 - [DevSpark: Months Later, Lessons Learned](https://markhazleton.com/blog/devspark-months-later-lessons-learned)
-- [RESTRunner: Building a DIY API Load Testing Tool](https://markhazleton.com/blog/rest-runner-building-your-own-api-load-tester)
-- [Accountability and Authority: Walking the Tightrope](https://markhazleton.com/blog/accountability-and-authority-walking-the-tightrope)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
