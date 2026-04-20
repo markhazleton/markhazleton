@@ -12,14 +12,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/blog/devspark-suggest-improvement-feedback-loop)
+- [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/blog/devspark-cli-ux-design)
+- [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/blog/devspark-alias-layer-entrypoints)
 - [Dave's Top Ten: Git Stats You Should Never Track](https://markhazleton.com/blog/engineering-metrics-top-ten-worst-git-stats)
 - [Dogfooding DevSpark: Building the Plane While Flying It](https://markhazleton.com/blog/dogfooding-devspark)
-- [Bring Your Own AI: DevSpark Unlocks Multi-Agent Collaboration](https://markhazleton.com/blog/devspark-bring-your-own-ai)
-- [DevSpark Monorepo Support: Governing Multiple Apps in One Repository](https://markhazleton.com/blog/devspark-monorepo-support)
-- [DevSpark v0.1.0: Agent-Agnostic, Multi-User, and Built for Teams](https://markhazleton.com/blog/devspark-multi-user-agent-agnostic-teams)
-- [DevSpark in Practice: A NuGet Package Case Study](https://markhazleton.com/blog/devspark-httpclientutility-case-study)
-- [DevSpark: From Fork to Framework — What the Commits Reveal](https://markhazleton.com/blog/devspark-fork-journey-what-got-built)
-- [DevSpark: Months Later, Lessons Learned](https://markhazleton.com/blog/devspark-months-later-lessons-learned)
+- [Workflows as First-Class Artifacts: Defining Operations for AI](https://markhazleton.com/blog/devspark-workflows-first-class-artifacts)
+- [Observability in AI Workflows: Exposing the Black Box](https://markhazleton.com/blog/devspark-observability-workflows)
+- [Autonomy Guardrails: Bounding Agent Action Safely](https://markhazleton.com/blog/devspark-autonomy-guardrails)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
