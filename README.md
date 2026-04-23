@@ -71,14 +71,14 @@ Exploring documentation as executable specification—part of a broader spec-dri
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-* [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/blog/devspark-suggest-improvement-feedback-loop)
-* [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/blog/devspark-cli-ux-design)
-* [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/blog/devspark-alias-layer-entrypoints)
-* [Dave's Top Ten: Git Stats You Should Never Track](https://markhazleton.com/blog/engineering-metrics-top-ten-worst-git-stats)
-* [Dogfooding DevSpark: Building the Plane While Flying It](https://markhazleton.com/blog/dogfooding-devspark)
-* [Workflows as First-Class Artifacts: Defining Operations for AI](https://markhazleton.com/blog/devspark-workflows-first-class-artifacts)
-* [Observability in AI Workflows: Exposing the Black Box](https://markhazleton.com/blog/devspark-observability-workflows)
-* [Autonomy Guardrails: Bounding Agent Action Safely](https://markhazleton.com/blog/devspark-autonomy-guardrails)
+- [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/blog/devspark-suggest-improvement-feedback-loop)
+- [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/blog/devspark-cli-ux-design)
+- [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/blog/devspark-alias-layer-entrypoints)
+- [Dave's Top Ten: Git Stats You Should Never Track](https://markhazleton.com/blog/engineering-metrics-top-ten-worst-git-stats)
+- [Dogfooding DevSpark: Building the Plane While Flying It](https://markhazleton.com/blog/dogfooding-devspark)
+- [Workflows as First-Class Artifacts: Defining Operations for AI](https://markhazleton.com/blog/devspark-workflows-first-class-artifacts)
+- [Observability in AI Workflows: Exposing the Black Box](https://markhazleton.com/blog/devspark-observability-workflows)
+- [Autonomy Guardrails: Bounding Agent Action Safely](https://markhazleton.com/blog/devspark-autonomy-guardrails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
