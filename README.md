@@ -71,6 +71,7 @@ Exploring documentation as executable specification—part of a broader spec-dri
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Mountains of Misunderstanding: The AI Confidence Trap](https://markhazleton.com/blog/the-ai-confidence-trap)
 - [Cloudflare and IIS: Hosting My .NET Sites on One VM](https://markhazleton.com/blog/cloudflare-and-iis-for-secure-windows-vm-deployments)
 - [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/blog/devspark-blogging-workflow-better-articles)
 - [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/blog/devspark-suggest-improvement-feedback-loop)
@@ -78,7 +79,6 @@ Exploring documentation as executable specification—part of a broader spec-dri
 - [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/blog/devspark-alias-layer-entrypoints)
 - [Dave's Top Ten: Git Stats You Should Never Track](https://markhazleton.com/blog/engineering-metrics-top-ten-worst-git-stats)
 - [Dogfooding DevSpark: Building the Plane While Flying It](https://markhazleton.com/blog/dogfooding-devspark)
-- [Workflows as First-Class Artifacts: Defining Operations for AI](https://markhazleton.com/blog/devspark-workflows-first-class-artifacts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
