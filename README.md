@@ -25,14 +25,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolving PHP Development](https://markhazleton.com/articles/evolving-php-development.html)
-- [TailwindSpark: Ignite Your Web Development](https://markhazleton.com/articles/tailwindspark-ignite-your-web-development.html)
-- [Hotfix Prioritization Matrix &amp; Decision Framework](https://markhazleton.com/articles/hotfix-prioritization-matrix-decision-framework.html)
-- [The Building of React-native-web-start](https://markhazleton.com/articles/the-building-of-react-native-web-start.html)
-- [Mountains of Misunderstanding](https://markhazleton.com/articles/the-ai-confidence-trap.html)
-- [Building TeachSpark: AI-Powered Educational Technology for Teachers](https://markhazleton.com/articles/building-teachspark-ai-powered-educational-technology-for-teachers.html)
-- [AI Observability: Understanding Its Importance](https://markhazleton.com/articles/ai-observability-is-no-joke.html)
-- [Architecting Agentic Services in .NET 9: Semantic Kernel](https://markhazleton.com/articles/architecting-agentic-services-in-net-9-semantic-kernel-enterprise-ai-architecture.html)
+- [Stop Digging Through Logs. Start Designing for Learning.](https://markhazleton.com/blog/analytics-contract-designing-for-learning)
+- [Mountains of Misunderstanding: The AI Confidence Trap](https://markhazleton.com/blog/the-ai-confidence-trap)
+- [Cloudflare and IIS: Hosting My .NET Sites on One VM](https://markhazleton.com/blog/cloudflare-and-iis-for-secure-windows-vm-deployments)
+- [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/blog/devspark-blogging-workflow-better-articles)
+- [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/blog/devspark-suggest-improvement-feedback-loop)
+- [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/blog/devspark-cli-ux-design)
+- [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/blog/devspark-alias-layer-entrypoints)
+- [Dave's Top Ten: Git Stats You Should Never Track](https://markhazleton.com/blog/engineering-metrics-top-ten-worst-git-stats)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
