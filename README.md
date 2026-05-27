@@ -25,14 +25,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSpark and Agent Skills: Beyond Portable AI Capabilities](https://markhazleton.com/blog/devspark-agent-skills-lifecycle-ai)
-- [Stop Digging Through Logs. Start Designing for Learning.](https://markhazleton.com/blog/analytics-contract-designing-for-learning)
-- [Mountains of Misunderstanding: The AI Confidence Trap](https://markhazleton.com/blog/the-ai-confidence-trap)
-- [Cloudflare and IIS: Hosting My .NET Sites on One VM](https://markhazleton.com/blog/cloudflare-and-iis-for-secure-windows-vm-deployments)
-- [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/blog/devspark-blogging-workflow-better-articles)
-- [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/blog/devspark-suggest-improvement-feedback-loop)
-- [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/blog/devspark-cli-ux-design)
-- [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/blog/devspark-alias-layer-entrypoints)
+- [DevSpark and Agent Skills: Beyond Portable AI Capabilities](https://markhazleton.com/insights/devspark-agent-skills-lifecycle-ai)
+- [Stop Digging Through Logs. Start Designing for Learning.](https://markhazleton.com/insights/analytics-contract-designing-for-learning)
+- [Mountains of Misunderstanding: The AI Confidence Trap](https://markhazleton.com/insights/the-ai-confidence-trap)
+- [Cloudflare and IIS: Hosting My .NET Sites on One VM](https://markhazleton.com/insights/cloudflare-and-iis-for-secure-windows-vm-deployments)
+- [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/insights/devspark-blogging-workflow-better-articles)
+- [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/insights/devspark-suggest-improvement-feedback-loop)
+- [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/insights/devspark-cli-ux-design)
+- [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/insights/devspark-alias-layer-entrypoints)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
