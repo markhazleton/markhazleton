@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [API Test Spark: React in NuGet for .NET 10 APIs](https://markhazleton.com/insights/packaging-react-api-test-harness)
 - [DevSpark and Agent Skills: Beyond Portable AI Capabilities](https://markhazleton.com/insights/devspark-agent-skills-lifecycle-ai)
 - [Stop Digging Through Logs. Start Designing for Learning.](https://markhazleton.com/insights/analytics-contract-designing-for-learning)
 - [Mountains of Misunderstanding: The AI Confidence Trap](https://markhazleton.com/insights/the-ai-confidence-trap)
@@ -32,7 +33,6 @@
 - [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/insights/devspark-blogging-workflow-better-articles)
 - [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/insights/devspark-suggest-improvement-feedback-loop)
 - [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/insights/devspark-cli-ux-design)
-- [The Alias Layer: Masking Complexity in Agent Invocations](https://markhazleton.com/insights/devspark-alias-layer-entrypoints)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
