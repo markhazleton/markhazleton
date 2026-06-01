@@ -35,20 +35,6 @@
 - [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/insights/devspark-cli-ux-design)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub Stats
-
-<!-- markdownlint-disable MD033 -->
-<p>
- <a href="https://github.com/markhazleton" aria-label="GitHub profile">
-  <img src="https://github-readme-stats.vercel.app/api?username=markhazleton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub Stats for @markhazleton" loading="lazy" />
- </a>
-</p>
-<p>
- <a href="https://github.com/markhazleton" aria-label="Top languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markhazleton&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" alt="Top languages for @markhazleton" loading="lazy" />
- </a>
-</p>
-<!-- markdownlint-enable MD033 -->
 
 ## 🔗 Let's Connect
 
