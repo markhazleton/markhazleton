@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [ApiTestSpark: OpenAPI Became Implementation Context](https://markhazleton.com/insights/apitestspark-openapi-implementation-context)
 - [API Test Spark: React in NuGet for .NET 10 APIs](https://markhazleton.com/insights/packaging-react-api-test-harness)
 - [DevSpark and Agent Skills: Beyond Portable AI Capabilities](https://markhazleton.com/insights/devspark-agent-skills-lifecycle-ai)
 - [Stop Digging Through Logs. Start Designing for Learning.](https://markhazleton.com/insights/analytics-contract-designing-for-learning)
@@ -32,7 +33,6 @@
 - [Cloudflare and IIS: Hosting My .NET Sites on One VM](https://markhazleton.com/insights/cloudflare-and-iis-for-secure-windows-vm-deployments)
 - [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/insights/devspark-blogging-workflow-better-articles)
 - [Closing the Loop: Automating Feedback with Suggest-Improvement](https://markhazleton.com/insights/devspark-suggest-improvement-feedback-loop)
-- [Designing the DevSpark CLI UX: Commands vs Prompts](https://markhazleton.com/insights/devspark-cli-ux-design)
 <!-- BLOG-POST-LIST:END -->
 
 
