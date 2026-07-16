@@ -30,9 +30,9 @@
 - [API Test Spark: React in NuGet for .NET 10 APIs](https://markhazleton.com/insights/packaging-react-api-test-harness)
 - [DevSpark and Agent Skills: Beyond Portable AI Capabilities](https://markhazleton.com/insights/devspark-agent-skills-lifecycle-ai)
 - [Stop Digging Through Logs. Start Designing for Learning.](https://markhazleton.com/insights/analytics-contract-designing-for-learning)
-- [Mountains of Misunderstanding: The AI Confidence Trap](https://markhazleton.com/insights/the-ai-confidence-trap)
 - [Cloudflare and IIS: Hosting My .NET Sites on One VM](https://markhazleton.com/insights/cloudflare-and-iis-for-secure-windows-vm-deployments)
 - [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/insights/devspark-blogging-workflow-better-articles)
+- [DevSpark: Constitution-Driven AI for Software Development](https://markhazleton.com/insights/devspark-series-index)
 <!-- BLOG-POST-LIST:END -->
 
 
