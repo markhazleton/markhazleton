@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Ithaka Gave You the Journey: AI-Assisted Development](https://markhazleton.com/insights/ithaka-ai-assisted-development)
 - [The Methodology Tax: Why Grassroots Innovation Gets Rejected](https://markhazleton.com/insights/methodology-tax-enterprise-ai-governance)
 - [ApiTestSpark: OpenAPI Became Implementation Context](https://markhazleton.com/insights/apitestspark-openapi-implementation-context)
 - [API Test Spark: React in NuGet for .NET 10 APIs](https://markhazleton.com/insights/packaging-react-api-test-harness)
@@ -32,7 +33,6 @@
 - [Stop Digging Through Logs. Start Designing for Learning.](https://markhazleton.com/insights/analytics-contract-designing-for-learning)
 - [Cloudflare and IIS: Hosting My .NET Sites on One VM](https://markhazleton.com/insights/cloudflare-and-iis-for-secure-windows-vm-deployments)
 - [DevSpark Blogging Workflow: How I Built Better Articles](https://markhazleton.com/insights/devspark-blogging-workflow-better-articles)
-- [DevSpark: Constitution-Driven AI for Software Development](https://markhazleton.com/insights/devspark-series-index)
 <!-- BLOG-POST-LIST:END -->
 
 
