@@ -25,14 +25,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Beaver Builds a Pond](https://markhazleton.com/insights/the-beaver-builds-a-pond)
+- [The Shark Stops Evolving When It's Done](https://markhazleton.com/insights/the-shark-stops-when-its-done)
 - [The Dependencies I Never Upgraded](https://markhazleton.com/insights/the-dependencies-i-never-upgraded)
 - [DevSpark's Next Evolution: Rethinking Where Knowledge Lives](https://markhazleton.com/insights/devspark-knowledge-evolution-system)
 - [Every Arm Is Still Searching: The Octopus Model of Agency](https://markhazleton.com/insights/every-arm-is-still-searching)
 - [Turtling: When a Team Stops Looking for the Door](https://markhazleton.com/insights/turtling-when-teams-stop-looking)
 - [Ithaka Gave You the Journey: AI-Assisted Development](https://markhazleton.com/insights/ithaka-ai-assisted-development)
 - [The Methodology Tax: Why Grassroots Innovation Gets Rejected](https://markhazleton.com/insights/methodology-tax-enterprise-ai-governance)
-- [ApiTestSpark: OpenAPI Became Implementation Context](https://markhazleton.com/insights/apitestspark-openapi-implementation-context)
-- [API Test Spark: React in NuGet for .NET 10 APIs](https://markhazleton.com/insights/packaging-react-api-test-harness)
 <!-- BLOG-POST-LIST:END -->
 
 
