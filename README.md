@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Shift Left Into Planning](https://markhazleton.com/insights/shift-left-agentic-planning)
 - [The Beaver Builds a Pond](https://markhazleton.com/insights/the-beaver-builds-a-pond)
 - [The Shark Stops Evolving When It's Done](https://markhazleton.com/insights/the-shark-stops-when-its-done)
 - [The Dependencies I Never Upgraded](https://markhazleton.com/insights/the-dependencies-i-never-upgraded)
@@ -32,7 +33,6 @@
 - [Every Arm Is Still Searching: The Octopus Model of Agency](https://markhazleton.com/insights/every-arm-is-still-searching)
 - [Turtling: When a Team Stops Looking for the Door](https://markhazleton.com/insights/turtling-when-teams-stop-looking)
 - [Ithaka Gave You the Journey: AI-Assisted Development](https://markhazleton.com/insights/ithaka-ai-assisted-development)
-- [The Methodology Tax: Why Grassroots Innovation Gets Rejected](https://markhazleton.com/insights/methodology-tax-enterprise-ai-governance)
 <!-- BLOG-POST-LIST:END -->
 
 
