@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Python in the Post-Copilot World](https://markhazleton.com/insights/learning-python-post-copilot)
 - [Shift Left Into Planning](https://markhazleton.com/insights/shift-left-agentic-planning)
 - [The Folder That Became a Discipline](https://markhazleton.com/insights/the-folder-that-became-a-discipline)
 - [The Beaver Builds a Pond](https://markhazleton.com/insights/the-beaver-builds-a-pond)
@@ -32,7 +33,6 @@
 - [The Dependencies I Never Upgraded](https://markhazleton.com/insights/the-dependencies-i-never-upgraded)
 - [DevSpark's Next Evolution: Rethinking Where Knowledge Lives](https://markhazleton.com/insights/devspark-knowledge-evolution-system)
 - [Every Arm Is Still Searching: The Octopus Model of Agency](https://markhazleton.com/insights/every-arm-is-still-searching)
-- [Turtling: When a Team Stops Looking for the Door](https://markhazleton.com/insights/turtling-when-teams-stop-looking)
 <!-- BLOG-POST-LIST:END -->
 
 
