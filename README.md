@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [I'm Not a Game Developer. I Built a Game Anyway.](https://markhazleton.com/insights/not-a-game-developer-built-a-game-anyway)
 - [The Engineering Zoo: When the Dashboard Gets Better but the Zoo Does Not](https://markhazleton.com/insights/engineering-zoo-dashboard-better-zoo-unchanged)
 - [DevSpark: Change Must Start With a Real Need](https://markhazleton.com/insights/devspark-change-real-need)
 - [DevSpark v4: The Spec Was Never the Record](https://markhazleton.com/insights/devspark-v4-spec-never-the-record)
@@ -32,7 +33,6 @@
 - [Shift Left Into Planning](https://markhazleton.com/insights/shift-left-agentic-planning)
 - [The Folder That Became a Discipline](https://markhazleton.com/insights/the-folder-that-became-a-discipline)
 - [The Beaver Builds a Pond](https://markhazleton.com/insights/the-beaver-builds-a-pond)
-- [The Shark Stops Evolving When It's Done](https://markhazleton.com/insights/the-shark-stops-when-its-done)
 <!-- BLOG-POST-LIST:END -->
 
 
