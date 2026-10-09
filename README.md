@@ -25,14 +25,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [DevSpark Dogfooding: Escaping the Scope-Creep Spiral](https://markhazleton.com/insights/escaping-the-spec-scope-creep-spiral)
+- [QA Was Always My Last Battle Front](https://markhazleton.com/insights/qa-was-always-my-last-battle-front)
 - [I'm Not a Game Developer. I Built a Game Anyway.](https://markhazleton.com/insights/not-a-game-developer-built-a-game-anyway)
 - [The Engineering Zoo: When the Dashboard Gets Better but the Zoo Does Not](https://markhazleton.com/insights/engineering-zoo-dashboard-better-zoo-unchanged)
 - [DevSpark: Change Must Start With a Real Need](https://markhazleton.com/insights/devspark-change-real-need)
 - [DevSpark v4: The Spec Was Never the Record](https://markhazleton.com/insights/devspark-v4-spec-never-the-record)
 - [Learning Python in the Post-Copilot World](https://markhazleton.com/insights/learning-python-post-copilot)
 - [Shift Left Into Planning](https://markhazleton.com/insights/shift-left-agentic-planning)
-- [The Folder That Became a Discipline](https://markhazleton.com/insights/the-folder-that-became-a-discipline)
-- [The Beaver Builds a Pond](https://markhazleton.com/insights/the-beaver-builds-a-pond)
 <!-- BLOG-POST-LIST:END -->
 
 
