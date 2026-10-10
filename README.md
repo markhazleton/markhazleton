@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Tactical Excellence, Strategic Truth: Who Checks Whom](https://markhazleton.com/insights/tactical-excellence-strategic-truth)
 - [DevSpark Dogfooding: Escaping the Scope-Creep Spiral](https://markhazleton.com/insights/escaping-the-spec-scope-creep-spiral)
 - [QA Was Always My Last Battle Front](https://markhazleton.com/insights/qa-was-always-my-last-battle-front)
 - [I'm Not a Game Developer. I Built a Game Anyway.](https://markhazleton.com/insights/not-a-game-developer-built-a-game-anyway)
@@ -32,7 +33,6 @@
 - [DevSpark: Change Must Start With a Real Need](https://markhazleton.com/insights/devspark-change-real-need)
 - [DevSpark v4: The Spec Was Never the Record](https://markhazleton.com/insights/devspark-v4-spec-never-the-record)
 - [Learning Python in the Post-Copilot World](https://markhazleton.com/insights/learning-python-post-copilot)
-- [Shift Left Into Planning](https://markhazleton.com/insights/shift-left-agentic-planning)
 <!-- BLOG-POST-LIST:END -->
 
 
