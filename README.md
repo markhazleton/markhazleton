@@ -25,14 +25,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Momentum Is Not Propulsion](https://markhazleton.com/insights/momentum-is-not-propulsion)
+- [The Last Generation of Masters?](https://markhazleton.com/insights/the-last-generation-of-masters)
+- [Confident Humility: Earning and Keeping Client Trust](https://markhazleton.com/insights/confident-humility-earning-and-keeping-trust)
 - [A Journeyman's Guide to Three-Week Sprints](https://markhazleton.com/insights/three-week-sprints-release-clock)
 - [Isolated Development Agents: Reinventing Waterfall With AI](https://markhazleton.com/insights/isolated-development-agents-waterfall)
 - [Tactical Excellence, Strategic Truth: Who Checks Whom](https://markhazleton.com/insights/tactical-excellence-strategic-truth)
 - [DevSpark Dogfooding: Escaping the Scope-Creep Spiral](https://markhazleton.com/insights/escaping-the-spec-scope-creep-spiral)
 - [QA Was Always My Last Battle Front](https://markhazleton.com/insights/qa-was-always-my-last-battle-front)
-- [I'm Not a Game Developer. I Built a Game Anyway.](https://markhazleton.com/insights/not-a-game-developer-built-a-game-anyway)
-- [The Engineering Zoo: When the Dashboard Gets Better but the Zoo Does Not](https://markhazleton.com/insights/engineering-zoo-dashboard-better-zoo-unchanged)
-- [DevSpark: Change Must Start With a Real Need](https://markhazleton.com/insights/devspark-change-real-need)
 <!-- BLOG-POST-LIST:END -->
 
 
