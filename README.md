@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Solve the Problem, and Get Out of the Way](https://markhazleton.com/insights/solve-the-problem-and-get-out-of-the-way)
 - [Momentum Is Not Propulsion](https://markhazleton.com/insights/momentum-is-not-propulsion)
 - [The Last Generation of Masters?](https://markhazleton.com/insights/the-last-generation-of-masters)
 - [Confident Humility: Earning and Keeping Client Trust](https://markhazleton.com/insights/confident-humility-earning-and-keeping-trust)
@@ -32,7 +33,6 @@
 - [Isolated Development Agents: Reinventing Waterfall With AI](https://markhazleton.com/insights/isolated-development-agents-waterfall)
 - [Tactical Excellence, Strategic Truth: Who Checks Whom](https://markhazleton.com/insights/tactical-excellence-strategic-truth)
 - [DevSpark Dogfooding: Escaping the Scope-Creep Spiral](https://markhazleton.com/insights/escaping-the-spec-scope-creep-spiral)
-- [QA Was Always My Last Battle Front](https://markhazleton.com/insights/qa-was-always-my-last-battle-front)
 <!-- BLOG-POST-LIST:END -->
 
 
