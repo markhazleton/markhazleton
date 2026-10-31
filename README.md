@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Knowing When to Let My Creation Die](https://markhazleton.com/insights/knowing-when-to-let-my-creation-die)
 - [Solve the Problem, and Get Out of the Way](https://markhazleton.com/insights/solve-the-problem-and-get-out-of-the-way)
 - [Momentum Is Not Propulsion](https://markhazleton.com/insights/momentum-is-not-propulsion)
 - [The Last Generation of Masters?](https://markhazleton.com/insights/the-last-generation-of-masters)
@@ -32,7 +33,6 @@
 - [A Journeyman's Guide to Three-Week Sprints](https://markhazleton.com/insights/three-week-sprints-release-clock)
 - [Isolated Development Agents: Reinventing Waterfall With AI](https://markhazleton.com/insights/isolated-development-agents-waterfall)
 - [Tactical Excellence, Strategic Truth: Who Checks Whom](https://markhazleton.com/insights/tactical-excellence-strategic-truth)
-- [DevSpark Dogfooding: Escaping the Scope-Creep Spiral](https://markhazleton.com/insights/escaping-the-spec-scope-creep-spiral)
 <!-- BLOG-POST-LIST:END -->
 
 
