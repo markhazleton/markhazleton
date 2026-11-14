@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [DevSpark Roadmaps: Planning Before the Agent Builds](https://markhazleton.com/insights/devspark-roadmaps-prospective-specs)
 - [The Same Trick, Different Magic](https://markhazleton.com/insights/same-trick-different-magic)
 - [Knowing When to Let My Creation Die](https://markhazleton.com/insights/knowing-when-to-let-my-creation-die)
 - [Solve the Problem, and Get Out of the Way](https://markhazleton.com/insights/solve-the-problem-and-get-out-of-the-way)
@@ -32,7 +33,6 @@
 - [The Last Generation of Masters?](https://markhazleton.com/insights/the-last-generation-of-masters)
 - [Confident Humility: Earning and Keeping Client Trust](https://markhazleton.com/insights/confident-humility-earning-and-keeping-trust)
 - [A Journeyman's Guide to Three-Week Sprints](https://markhazleton.com/insights/three-week-sprints-release-clock)
-- [Isolated Development Agents: Reinventing Waterfall With AI](https://markhazleton.com/insights/isolated-development-agents-waterfall)
 <!-- BLOG-POST-LIST:END -->
 
 
