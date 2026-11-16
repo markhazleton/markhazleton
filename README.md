@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Developer Is Not an Order Taker](https://markhazleton.com/insights/the-developer-is-not-an-order-taker)
 - [DevSpark Roadmaps: Planning Before the Agent Builds](https://markhazleton.com/insights/devspark-roadmaps-prospective-specs)
 - [The Same Trick, Different Magic](https://markhazleton.com/insights/same-trick-different-magic)
 - [Knowing When to Let My Creation Die](https://markhazleton.com/insights/knowing-when-to-let-my-creation-die)
@@ -32,7 +33,6 @@
 - [Momentum Is Not Propulsion](https://markhazleton.com/insights/momentum-is-not-propulsion)
 - [The Last Generation of Masters?](https://markhazleton.com/insights/the-last-generation-of-masters)
 - [Confident Humility: Earning and Keeping Client Trust](https://markhazleton.com/insights/confident-humility-earning-and-keeping-trust)
-- [A Journeyman's Guide to Three-Week Sprints](https://markhazleton.com/insights/three-week-sprints-release-clock)
 <!-- BLOG-POST-LIST:END -->
 
 
