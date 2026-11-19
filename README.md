@@ -25,6 +25,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Python, Spam, and the Holy Grail: A Language History](https://markhazleton.com/insights/python-spam-holy-grail-history)
 - [The Developer Is Not an Order Taker](https://markhazleton.com/insights/the-developer-is-not-an-order-taker)
 - [DevSpark Roadmaps: Planning Before the Agent Builds](https://markhazleton.com/insights/devspark-roadmaps-prospective-specs)
 - [The Same Trick, Different Magic](https://markhazleton.com/insights/same-trick-different-magic)
@@ -32,7 +33,6 @@
 - [Solve the Problem, and Get Out of the Way](https://markhazleton.com/insights/solve-the-problem-and-get-out-of-the-way)
 - [Momentum Is Not Propulsion](https://markhazleton.com/insights/momentum-is-not-propulsion)
 - [The Last Generation of Masters?](https://markhazleton.com/insights/the-last-generation-of-masters)
-- [Confident Humility: Earning and Keeping Client Trust](https://markhazleton.com/insights/confident-humility-earning-and-keeping-trust)
 <!-- BLOG-POST-LIST:END -->
 
 
