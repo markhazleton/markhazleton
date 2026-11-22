@@ -25,14 +25,14 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting to Know Your Repository with git-spark](https://markhazleton.com/insights/git-spark-know-your-repository)
+- [Two Tables and a Question](https://markhazleton.com/insights/two-tables-and-a-question)
 - [Grace Hopper: The Admiral Who Taught Computers Our Language](https://markhazleton.com/insights/grace-hopper-taught-computers-our-language)
 - [Python, Spam, and the Holy Grail: A Language History](https://markhazleton.com/insights/python-spam-holy-grail-history)
 - [The Developer Is Not an Order Taker](https://markhazleton.com/insights/the-developer-is-not-an-order-taker)
 - [DevSpark Roadmaps: Planning Before the Agent Builds](https://markhazleton.com/insights/devspark-roadmaps-prospective-specs)
 - [The Same Trick, Different Magic](https://markhazleton.com/insights/same-trick-different-magic)
 - [Knowing When to Let My Creation Die](https://markhazleton.com/insights/knowing-when-to-let-my-creation-die)
-- [Solve the Problem, and Get Out of the Way](https://markhazleton.com/insights/solve-the-problem-and-get-out-of-the-way)
-- [Momentum Is Not Propulsion](https://markhazleton.com/insights/momentum-is-not-propulsion)
 <!-- BLOG-POST-LIST:END -->
 
 
